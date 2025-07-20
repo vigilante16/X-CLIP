@@ -6,6 +6,58 @@ from dataloaders.dataloader_msvd_retrieval import MSVD_DataLoader
 from dataloaders.dataloader_lsmdc_retrieval import LSMDC_DataLoader
 from dataloaders.dataloader_activitynet_retrieval import ActivityNet_DataLoader
 from dataloaders.dataloader_didemo_retrieval import DiDeMo_DataLoader
+from dataloaders.dataloader_finevideo_retrieval import FineVideo_DataLoader
+
+
+# 新增FineVideo数据集的训练和测试加载器
+def dataloader_finevideo_train(args, tokenizer):
+    finevideo_dataset = FineVideo_DataLoader(
+        subset="train",
+        data_root=args.data_path,  # 对应数据集根目录（包含videos和metadata）
+        max_words=args.max_words,
+        feature_framerate=args.feature_framerate,
+        tokenizer=tokenizer,
+        max_frames=args.max_frames,
+        frame_order=args.train_frame_order,
+        slice_framepos=args.slice_framepos,
+        
+    )
+
+    # 分布式训练采样器
+    train_sampler = torch.utils.data.distributed.DistributedSampler(finevideo_dataset)
+    dataloader = DataLoader(
+        finevideo_dataset,
+        batch_size=args.batch_size // args.n_gpu,  # 按GPU数量拆分批次
+        num_workers=args.num_thread_reader,
+        pin_memory=True,
+        shuffle=(train_sampler is None),  # 分布式模式下由sampler控制shuffle
+        sampler=train_sampler,
+        drop_last=True,  # 训练时丢弃最后一个不完整批次
+    )
+
+    return dataloader, len(finevideo_dataset), train_sampler
+
+
+def dataloader_finevideo_test(args, tokenizer, subset="test"):
+    finevideo_testset = FineVideo_DataLoader(
+        subset=subset,
+        data_root=args.data_path,  # 对应数据集根目录
+        max_words=args.max_words,
+        feature_framerate=args.feature_framerate,
+        tokenizer=tokenizer,
+        max_frames=args.max_frames,
+        frame_order=args.eval_frame_order,  # 测试时使用评估模式的帧顺序
+        slice_framepos=args.slice_framepos,
+    )
+    dataloader_finevideo = DataLoader(
+        finevideo_testset,
+        batch_size=args.batch_size_val,  # 测试批次大小
+        num_workers=args.num_thread_reader,
+        shuffle=False,  # 测试时不打乱顺序
+        drop_last=False,  # 保留最后一个不完整批次
+    )
+    return dataloader_finevideo, len(finevideo_testset)
+
 
 def dataloader_msrvtt_train(args, tokenizer):
     msrvtt_dataset = MSRVTT_TrainDataLoader(
@@ -253,3 +305,10 @@ DATALOADER_DICT["msvd"] = {"train":dataloader_msvd_train, "val":dataloader_msvd_
 DATALOADER_DICT["lsmdc"] = {"train":dataloader_lsmdc_train, "val":dataloader_lsmdc_test, "test":dataloader_lsmdc_test}
 DATALOADER_DICT["activity"] = {"train":dataloader_activity_train, "val":dataloader_activity_test, "test":None}
 DATALOADER_DICT["didemo"] = {"train":dataloader_didemo_train, "val":dataloader_didemo_test, "test":dataloader_didemo_test}
+# 新增FineVideo数据集
+DATALOADER_DICT['finevideo'] = {
+    "train": dataloader_finevideo_train,
+    "val": dataloader_finevideo_test,
+    "test": dataloader_finevideo_test
+}
+

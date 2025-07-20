@@ -24,6 +24,7 @@ global logger
 
 def get_args(description='X-CLIP on Retrieval Task'):
     parser = argparse.ArgumentParser(description=description)
+    parser.add_argument("--local-rank", type=int, default=-1, help="Local rank for distributed training")
     parser.add_argument("--do_pretrain", action='store_true', help="Whether to run training.")
     parser.add_argument("--do_train", action='store_true', help="Whether to run training.")
     parser.add_argument("--do_eval", action='store_true', help="Whether to run eval on the dev set.")
@@ -98,7 +99,7 @@ def get_args(description='X-CLIP on Retrieval Task'):
                         help="0: cut from head frames; 1: cut from tail frames; 2: extract frames uniformly.")
     parser.add_argument('--linear_patch', type=str, default="2d", choices=["2d", "3d"],
                         help="linear projection of flattened patches.")
-    parser.add_argument('--sim_header', type=str, default="meanP",
+    parser.add_argument('--sim_header', type=str, default="tightTransf",
                         choices=["meanP", "seqLSTM", "seqTransf", "tightTransf"],
                         help="choice a similarity header.")
 
@@ -165,19 +166,33 @@ def init_device(args, local_rank):
 
     return device, n_gpu
 
+# def init_model(args, device, n_gpu, local_rank):
+
+#     if args.init_model:
+#         model_state_dict = torch.load(args.init_model, map_location='cpu')
+#     else:
+#         model_state_dict = None
+
+#     # Prepare model
+#     cache_dir = args.cache_dir if args.cache_dir else os.path.join(str(PYTORCH_PRETRAINED_BERT_CACHE), 'distributed')
+#     model = XCLIP.from_pretrained(args.cross_model, cache_dir=cache_dir, state_dict=model_state_dict, task_config=args)
+
+#     model.to(device)
+
+#     return model
+
 def init_model(args, device, n_gpu, local_rank):
-
     if args.init_model:
-        model_state_dict = torch.load(args.init_model, map_location='cpu')
+        # 加载 TorchScript 模型（直接得到模型实例）
+        model = torch.jit.load(args.init_model, map_location='cpu')
+        if args.local_rank == 0:
+            logger.info(f"Loaded TorchScript model from {args.init_model}")
     else:
-        model_state_dict = None
-
-    # Prepare model
-    cache_dir = args.cache_dir if args.cache_dir else os.path.join(str(PYTORCH_PRETRAINED_BERT_CACHE), 'distributed')
-    model = XCLIP.from_pretrained(args.cross_model, cache_dir=cache_dir, state_dict=model_state_dict, task_config=args)
+        # 若无预加载模型，从默认预训练权重构建
+        cache_dir = args.cache_dir if args.cache_dir else os.path.join(str(PYTORCH_PRETRAINED_BERT_CACHE), 'distributed')
+        model = XCLIP.from_pretrained(args.cross_model, cache_dir=cache_dir, task_config=args)
 
     model.to(device)
-
     return model
 
 def prep_optimizer(args, model, num_train_optimization_steps, device, n_gpu, local_rank, coef_lr=1.):
