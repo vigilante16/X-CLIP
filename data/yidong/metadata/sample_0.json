@@ -1,0 +1,1190 @@
+{
+    "content_fine_category": "Career Highlights",
+    "content_metadata": {
+        "characterList": [
+            {
+                "characterId": "c1",
+                "description": "White female, light brown hair tied in a bun, pale complexion, wearing a blue QPS training shirt.",
+                "name": "Police Recruit #1"
+            },
+            {
+                "characterId": "c2",
+                "description": "White male with short brown hair, wearing a blue QPS training shirt.",
+                "name": "Police Recruit #2"
+            },
+            {
+                "characterId": "c3",
+                "description": "Superintendent, White male with short brown hair and greying temples, wearing a QPS uniform and tie.",
+                "name": "Joe Jaramazovic"
+            },
+            {
+                "characterId": "c4",
+                "description": "Senior Sergeant, White female with short blonde hair and glasses, wearing a QPS uniform.",
+                "name": "Jane Fitzgerald"
+            },
+            {
+                "characterId": "c5",
+                "description": "White male, short brown hair, wearing a QPS uniform and tie.",
+                "name": "Unknown Officer 1"
+            }
+        ],
+        "description": "A video analysis of the daily life and experiences of police recruits at the Queensland Police Service Academy.",
+        "fps": 25,
+        "qAndA": [
+            {
+                "answer": "The video starts with police recruits practicing combat techniques, specifically ground fighting and grappling.",
+                "question": "What type of training is shown in the very beginning of the video?"
+            },
+            {
+                "answer": "She mentions the difficulty of transitioning from a job that involved being outdoors all day to the academy environment, which involves long hours of classroom learning and studying.",
+                "question": "What does Police Recruit #1 say is the biggest challenge she faced during her training?"
+            },
+            {
+                "answer": "The video showcases signage displaying the core values of Integrity, Community, Respect and Fairness, and Professionalism, emphasizing their significance in the training and the overall culture of the Queensland Police Service.",
+                "question": "How does the video visually represent the core values of the Queensland Police Service?"
+            },
+            {
+                "answer": "The initial training program lasts for 18 months. The first two months involve 100% supervision, followed by 50% supervision for the remainder of the first year.",
+                "question": "What is the duration of the training program and how does the level of supervision change throughout?"
+            },
+            {
+                "answer": "The graduating recruits raise their police hats in a synchronized gesture, symbolizing their official entry into the Queensland Police Service.",
+                "question": "What specific action do the police recruits perform at the end of the graduation ceremony?"
+            }
+        ],
+        "scenes": [
+            {
+                "activities": [
+                    {
+                        "description": "Police recruits practice combat",
+                        "timestamp": {
+                            "end_timestamp": "00:00:01.000",
+                            "start_timestamp": "00:00:00.000"
+                        }
+                    },
+                    {
+                        "description": "Police officers walk together on a sidewalk",
+                        "timestamp": {
+                            "end_timestamp": "00:00:03.000",
+                            "start_timestamp": "00:00:02.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruits work together on laptops",
+                        "timestamp": {
+                            "end_timestamp": "00:00:04.000",
+                            "start_timestamp": "00:00:03.000"
+                        }
+                    },
+                    {
+                        "description": "Police officers stand in formation",
+                        "timestamp": {
+                            "end_timestamp": "00:00:08.000",
+                            "start_timestamp": "00:00:06.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruit #2 runs",
+                        "timestamp": {
+                            "end_timestamp": "00:00:08.000",
+                            "start_timestamp": "00:00:07.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruits practice shooting",
+                        "timestamp": {
+                            "end_timestamp": "00:00:10.000",
+                            "start_timestamp": "00:00:09.000"
+                        }
+                    },
+                    {
+                        "description": "Police officers ride in a patrol car",
+                        "timestamp": {
+                            "end_timestamp": "00:00:11.000",
+                            "start_timestamp": "00:00:10.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruit #2 practices CPR on a dummy",
+                        "timestamp": {
+                            "end_timestamp": "00:00:14.000",
+                            "start_timestamp": "00:00:13.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruits run an obstacle course",
+                        "timestamp": {
+                            "end_timestamp": "00:00:16.000",
+                            "start_timestamp": "00:00:15.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruits practice combat techniques",
+                        "timestamp": {
+                            "end_timestamp": "00:00:20.000",
+                            "start_timestamp": "00:00:19.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruit #1 runs on a sidewalk",
+                        "timestamp": {
+                            "end_timestamp": "00:00:21.000",
+                            "start_timestamp": "00:00:20.000"
+                        }
+                    },
+                    {
+                        "description": "Unknown Officer 1 sprays Police recruit #1 with pepper spray",
+                        "timestamp": {
+                            "end_timestamp": "00:00:23.000",
+                            "start_timestamp": "00:00:22.000"
+                        }
+                    },
+                    {
+                        "description": "Police car navigates an obstacle course",
+                        "timestamp": {
+                            "end_timestamp": "00:00:25.000",
+                            "start_timestamp": "00:00:24.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruits practice fighting techniques",
+                        "timestamp": {
+                            "end_timestamp": "00:00:26.000",
+                            "start_timestamp": "00:00:25.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruits apply a tourniquet",
+                        "timestamp": {
+                            "end_timestamp": "00:00:28.000",
+                            "start_timestamp": "00:00:27.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruits shoot at a shooting range",
+                        "timestamp": {
+                            "end_timestamp": "00:00:31.000",
+                            "start_timestamp": "00:00:30.000"
+                        }
+                    }
+                ],
+                "audioVisualCorrelation": 1,
+                "cast": [
+                    "Police Recruit #1",
+                    "Police Recruit #2",
+                    "Unknown Officer 1"
+                ],
+                "characterInteraction": [
+                    {
+                        "characters": [
+                            "Police Recruit #1",
+                            "Police Recruit #2",
+                            "Unknown Officer 1"
+                        ],
+                        "description": "Police recruits and officers engage in various training activities demonstrating teamwork and collaboration"
+                    }
+                ],
+                "contextualRelevance": "The scene introduces the audience to the different aspects of police training at the Academy.",
+                "dynamismScore": 1,
+                "mood": {
+                    "description": "Excited. The fast-paced editing and variety of activities create a sense of energy and excitement.",
+                    "keyMoments": [
+                        {
+                            "changeDescription": "From dynamic visuals to static text with sound fading out",
+                            "timestamp": "00:00:31.000"
+                        }
+                    ]
+                },
+                "narrativeProgression": [
+                    {
+                        "description": "Police training begins with a variety of physical and tactical activities",
+                        "timestamp": "00:00:00.000"
+                    },
+                    {
+                        "description": "Text overlay introduces the focus of the video",
+                        "timestamp": "00:00:31.000"
+                    }
+                ],
+                "props": [
+                    {
+                        "name": "Boxing headgear",
+                        "timestamp": {
+                            "end_timestamp": "00:00:01.000",
+                            "start_timestamp": "00:00:00.000"
+                        }
+                    },
+                    {
+                        "name": "Laptops",
+                        "timestamp": {
+                            "end_timestamp": "00:00:04.000",
+                            "start_timestamp": "00:00:03.000"
+                        }
+                    },
+                    {
+                        "name": "Gun",
+                        "timestamp": {
+                            "end_timestamp": "00:00:10.000",
+                            "start_timestamp": "00:00:09.000"
+                        }
+                    },
+                    {
+                        "name": "Patrol car",
+                        "timestamp": {
+                            "end_timestamp": "00:00:11.000",
+                            "start_timestamp": "00:00:10.000"
+                        }
+                    },
+                    {
+                        "name": "CPR dummy",
+                        "timestamp": {
+                            "end_timestamp": "00:00:14.000",
+                            "start_timestamp": "00:00:13.000"
+                        }
+                    },
+                    {
+                        "name": "Pepper spray",
+                        "timestamp": {
+                            "end_timestamp": "00:00:23.000",
+                            "start_timestamp": "00:00:22.000"
+                        }
+                    },
+                    {
+                        "name": "Batons",
+                        "timestamp": {
+                            "end_timestamp": "00:00:26.000",
+                            "start_timestamp": "00:00:25.000"
+                        }
+                    },
+                    {
+                        "name": "Tourniquet",
+                        "timestamp": {
+                            "end_timestamp": "00:00:28.000",
+                            "start_timestamp": "00:00:27.000"
+                        }
+                    },
+                    {
+                        "name": "Guns",
+                        "timestamp": {
+                            "end_timestamp": "00:00:31.000",
+                            "start_timestamp": "00:00:30.000"
+                        }
+                    }
+                ],
+                "sceneId": 1,
+                "thematicElements": "The demanding nature of police training, the importance of teamwork and collaboration, the commitment required to become a police officer.",
+                "timestamps": {
+                    "end_timestamp": "00:00:34.200",
+                    "start_timestamp": "00:00:00.000"
+                },
+                "title": "Introduction to Training",
+                "videoEditingDetails": [
+                    {
+                        "description": "Fast cuts between different activities",
+                        "timestamps": {
+                            "end_timestamp": "00:00:30.000",
+                            "start_timestamp": "00:00:00.000"
+                        }
+                    },
+                    {
+                        "description": "Text overlay: \"Life at the Academy\"",
+                        "timestamps": {
+                            "end_timestamp": "00:00:32.000",
+                            "start_timestamp": "00:00:31.000"
+                        }
+                    }
+                ]
+            },
+            {
+                "activities": [
+                    {
+                        "description": "Police recruit #1 speaks about life at the Academy",
+                        "timestamp": {
+                            "end_timestamp": "00:00:36.000",
+                            "start_timestamp": "00:00:35.000"
+                        }
+                    },
+                    {
+                        "description": "Shot of a swimming pool at the Academy",
+                        "timestamp": {
+                            "end_timestamp": "00:00:38.000",
+                            "start_timestamp": "00:00:37.000"
+                        }
+                    },
+                    {
+                        "description": "Shots of the Academy buildings and grounds",
+                        "timestamp": {
+                            "end_timestamp": "00:00:40.000",
+                            "start_timestamp": "00:00:39.000"
+                        }
+                    },
+                    {
+                        "description": "Shot of police recruits eating in a cafeteria",
+                        "timestamp": {
+                            "end_timestamp": "00:00:47.000",
+                            "start_timestamp": "00:00:46.000"
+                        }
+                    },
+                    {
+                        "description": "Joe Jaramazovic speaks about the purpose of the course",
+                        "timestamp": {
+                            "end_timestamp": "00:00:52.560",
+                            "start_timestamp": "00:00:52.560"
+                        }
+                    }
+                ],
+                "audioVisualCorrelation": 1,
+                "cast": [
+                    "Police Recruit #1",
+                    "Joe Jaramazovic"
+                ],
+                "characterInteraction": [
+                    {
+                        "characters": [
+                            "Police Recruit #1",
+                            "Joe Jaramazovic"
+                        ],
+                        "description": "Interviews with Police Recruit #1 and Superintendent Jaramazovic provide perspectives on the training and its purpose"
+                    }
+                ],
+                "contextualRelevance": "The scene provides insight into the challenges and rewards of life at the Academy.",
+                "dynamismScore": 0.5,
+                "mood": {
+                    "description": "Content. The visuals and interview dialogue create a sense of satisfaction with the training program.",
+                    "keyMoments": []
+                },
+                "narrativeProgression": [
+                    {
+                        "description": "Police Recruit #1 describes the demanding but rewarding experience of the academy training",
+                        "timestamp": "00:00:35.000"
+                    },
+                    {
+                        "description": "Superintendent Joe Jaramazovic emphasizes the importance of producing job-ready officers",
+                        "timestamp": "00:00:52.560"
+                    }
+                ],
+                "props": [
+                    {
+                        "name": "Queensland Police Service Academy sign",
+                        "timestamp": {
+                            "end_timestamp": "00:00:35.000",
+                            "start_timestamp": "00:00:34.240"
+                        }
+                    }
+                ],
+                "sceneId": 2,
+                "thematicElements": "The immersive nature of the Academy experience, the dedication and commitment of police recruits, the importance of the training program in preparing recruits for the realities of police work.",
+                "timestamps": {
+                    "end_timestamp": "00:00:52.560",
+                    "start_timestamp": "00:00:34.240"
+                },
+                "title": "Life at the Academy",
+                "videoEditingDetails": [
+                    {
+                        "description": "Slower paced editing compared to Scene 1",
+                        "timestamps": {
+                            "end_timestamp": "00:00:52.560",
+                            "start_timestamp": "00:00:34.240"
+                        }
+                    }
+                ]
+            },
+            {
+                "activities": [
+                    {
+                        "description": "Jane Fitzgerald speaks about a typical day for a recruit",
+                        "timestamp": {
+                            "end_timestamp": "00:01:04.000",
+                            "start_timestamp": "00:01:03.000"
+                        }
+                    },
+                    {
+                        "description": "Shots of police recruits standing in formation",
+                        "timestamp": {
+                            "end_timestamp": "00:01:08.000",
+                            "start_timestamp": "00:01:07.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruits walking to training",
+                        "timestamp": {
+                            "end_timestamp": "00:01:12.000",
+                            "start_timestamp": "00:01:11.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruits working on computers in a classroom",
+                        "timestamp": {
+                            "end_timestamp": "00:01:17.000",
+                            "start_timestamp": "00:01:16.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruit reading and taking notes",
+                        "timestamp": {
+                            "end_timestamp": "00:01:20.000",
+                            "start_timestamp": "00:01:19.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruits in a classroom listening to an instructor",
+                        "timestamp": {
+                            "end_timestamp": "00:01:23.000",
+                            "start_timestamp": "00:01:22.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruits walking down a hallway",
+                        "timestamp": {
+                            "end_timestamp": "00:01:28.000",
+                            "start_timestamp": "00:01:27.000"
+                        }
+                    },
+                    {
+                        "description": "Police officers conducting a training scenario",
+                        "timestamp": {
+                            "end_timestamp": "00:01:29.000",
+                            "start_timestamp": "00:01:28.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruits walking beside a pool",
+                        "timestamp": {
+                            "end_timestamp": "00:01:31.000",
+                            "start_timestamp": "00:01:30.000"
+                        }
+                    },
+                    {
+                        "description": "Police officers interacting with a recruit during a training scenario",
+                        "timestamp": {
+                            "end_timestamp": "00:01:33.000",
+                            "start_timestamp": "00:01:32.000"
+                        }
+                    },
+                    {
+                        "description": "Police officers conducting an interrogation scenario",
+                        "timestamp": {
+                            "end_timestamp": "00:01:36.000",
+                            "start_timestamp": "00:01:35.000"
+                        }
+                    },
+                    {
+                        "description": "Unknown Officer 1 speaks about the challenging nature of the course",
+                        "timestamp": {
+                            "end_timestamp": "00:01:39.000",
+                            "start_timestamp": "00:01:38.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruits watching a presentation",
+                        "timestamp": {
+                            "end_timestamp": "00:01:41.000",
+                            "start_timestamp": "00:01:40.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruits working on computers",
+                        "timestamp": {
+                            "end_timestamp": "00:01:45.000",
+                            "start_timestamp": "00:01:44.000"
+                        }
+                    },
+                    {
+                        "description": "Police recruit practicing handcuffing another recruit",
+                        "timestamp": {
+                            "end_timestamp": "00:01:46.000",
+                            "start_timestamp": "00:01:46.000"
+                        }
+                    }
+                ],
+                "audioVisualCorrelation": 1,
+                "cast": [
+                    "Jane Fitzgerald",
+                    "Unknown Officer 1"
+                ],
+                "characterInteraction": [
+                    {
+                        "characters": [
+                            "Jane Fitzgerald",
+                            "Unknown Officer 1"
+                        ],
+                        "description": "Senior Sergeant Fitzgerald and Unknown Officer 1 explain different aspects of the police training and its importance"
+                    }
+                ],
+                "contextualRelevance": "The scene highlights the variety of training activities and the expectations placed on recruits.",
+                "dynamismScore": 0.8,
+                "mood": {
+                    "description": "Proud. The visuals and interviews convey a sense of accomplishment and confidence in the recruits' abilities.",
+                    "keyMoments": []
+                },
+                "narrativeProgression": [
+                    {
+                        "description": "Senior Sergeant Jane Fitzgerald outlines the daily routine and diverse training activities at the academy",
+                        "timestamp": "00:01:03.000"
+                    },
+                    {
+                        "description": "Unknown Officer 1 highlights the challenging yet crucial nature of the course and the commitment expected from recruits",
+                        "timestamp": "00:01:38.000"
+                    }
+                ],
+                "props": [
+                    {
+                        "name": "Queensland Police Service Academy building",
+                        "timestamp": {
+                            "end_timestamp": "00:01:04.000",
+                            "start_timestamp": "00:01:03.000"
+                        }
+                    },
+                    {
+                        "name": "Computers",
+                        "timestamp": {
+                            "end_timestamp": "00:01:17.000",
+                            "start_timestamp": "00:01:16.000"
+                        }
+                    },
+                    {
+                        "name": "Notebook and pen",
+                        "timestamp": {
+                            "end_timestamp": "00:01:20.000",
+                            "start_timestamp": "00:01:19.000"
+                        }
+                    },
+                    {
+                        "name": "Handcuffs",
+                        "timestamp": {
+                            "end_timestamp": "00:01:46.000",
+                            "start_timestamp": "00:01:46.000"
+                        }
+                    }
+                ],
+                "sceneId": 3,
+                "thematicElements": "The comprehensive and rigorous nature of the training program, the emphasis on ethical and professional conduct, the importance of developing critical thinking and decision-making skills.",
+                "timestamps": {
+                    "end_timestamp": "00:01:46.000",
+                    "start_timestamp": "00:00:52.600"
+                },
+                "title": "A Day in the Life",
+                "videoEditingDetails": [
+                    {
+                        "description": "Fast cuts between different training activities",
+                        "timestamps": {
+                            "end_timestamp": "00:01:46.000",
+                            "start_timestamp": "00:01:07.000"
+                        }
+                    },
+                    {
+                        "description": "Shot of sign that reads \"Integrity\"",
+                        "timestamps": {
+                            "end_timestamp": "00:01:46.000",
+                            "start_timestamp": "00:01:46.000"
+                        }
+                    },
+                    {
+                        "description": "Shot of sign that reads \"Community\"",
+                        "timestamps": {
+                            "end_timestamp": "00:01:46.000",
+                            "start_timestamp": "00:01:46.000"
+                        }
+                    },
+                    {
+                        "description": "Shot of sign that reads \"Respect and Fairness\"",
+                        "timestamps": {
+                            "end_timestamp": "00:01:46.000",
+                            "start_timestamp": "00:01:46.000"
+                        }
+                    },
+                    {
+                        "description": "Shot of sign that reads \"Professionalism\"",
+                        "timestamps": {
+                            "end_timestamp": "00:01:46.000",
+                            "start_timestamp": "00:01:46.000"
+                        }
+                    }
+                ]
+            },
+            {
+                "activities": [
+                    {
+                        "description": "Police Recruit #1 speaks about the biggest challenge she faced",
+                        "timestamp": {
+                            "end_timestamp": "00:01:47.000",
+                            "start_timestamp": "00:01:46.040"
+                        }
+                    },
+                    {
+                        "description": "Shots of police recruits participating in various training exercises",
+                        "timestamp": {
+                            "end_timestamp": "00:01:50.000",
+                            "start_timestamp": "00:01:49.000"
+                        }
+                    }
+                ],
+                "audioVisualCorrelation": 1,
+                "cast": [
+                    "Police Recruit #1"
+                ],
+                "characterInteraction": [
+                    {
+                        "characters": [
+                            "Police Recruit #1"
+                        ],
+                        "description": "Interview with Police Recruit #1 provides insight into her personal experience and challenges during the training"
+                    }
+                ],
+                "contextualRelevance": "The scene focuses on the personal challenges and growth experienced by the recruits.",
+                "dynamismScore": 0.8,
+                "mood": {
+                    "description": "Excited. The visuals and Police Recruit #1's dialogue maintain the feeling of excitement and positive outlook towards the training.",
+                    "keyMoments": []
+                },
+                "narrativeProgression": [
+                    {
+                        "description": "Police Recruit #1 shares her personal challenge of transitioning from an outdoor job to a classroom setting and intensive studying",
+                        "timestamp": "00:01:46.040"
+                    },
+                    {
+                        "description": "Police Recruit #1 expresses how she adapted to the change and eventually felt comfortable in her new role",
+                        "timestamp": "00:01:59.000"
+                    }
+                ],
+                "props": [],
+                "sceneId": 4,
+                "thematicElements": "The personal growth and adaptability required during police training, the challenges of transitioning into a new and demanding role, the ability to overcome obstacles and embrace new experiences.",
+                "timestamps": {
+                    "end_timestamp": "00:02:02.720",
+                    "start_timestamp": "00:01:46.040"
+                },
+                "title": "Conquering Challenges",
+                "videoEditingDetails": [
+                    {
+                        "description": "Fast cuts between different training activities",
+                        "timestamps": {
+                            "end_timestamp": "00:02:02.720",
+                            "start_timestamp": "00:01:49.000"
+                        }
+                    }
+                ]
+            },
+            {
+                "activities": [
+                    {
+                        "description": "Unknown Officer 1 speaks about the critical nature of the training",
+                        "timestamp": {
+                            "end_timestamp": "00:02:06.000",
+                            "start_timestamp": "00:02:05.000"
+                        }
+                    },
+                    {
+                        "description": "Shots of police recruits participating in various training exercises",
+                        "timestamp": {
+                            "end_timestamp": "00:02:10.000",
+                            "start_timestamp": "00:02:09.000"
+                        }
+                    },
+                    {
+                        "description": "Joe Jaramazovic speaks about the importance of understanding the laws and making decisions",
+                        "timestamp": {
+                            "end_timestamp": "00:02:18.000",
+                            "start_timestamp": "00:02:17.000"
+                        }
+                    },
+                    {
+                        "description": "Jane Fitzgerald speaks about the first year of service",
+                        "timestamp": {
+                            "end_timestamp": "00:03:07.000",
+                            "start_timestamp": "00:03:06.000"
+                        }
+                    },
+                    {
+                        "description": "Shots of police recruits graduating from the Academy",
+                        "timestamp": {
+                            "end_timestamp": "00:03:09.000",
+                            "start_timestamp": "00:03:08.000"
+                        }
+                    },
+                    {
+                        "description": "Joe Jaramazovic speaks about the importance of leadership",
+                        "timestamp": {
+                            "end_timestamp": "00:03:57.000",
+                            "start_timestamp": "00:03:56.000"
+                        }
+                    },
+                    {
+                        "description": "Shots of police officers interacting with the community",
+                        "timestamp": {
+                            "end_timestamp": "00:04:08.000",
+                            "start_timestamp": "00:04:07.000"
+                        }
+                    }
+                ],
+                "audioVisualCorrelation": 1,
+                "cast": [
+                    "Joe Jaramazovic",
+                    "Jane Fitzgerald"
+                ],
+                "characterInteraction": [
+                    {
+                        "characters": [
+                            "Joe Jaramazovic",
+                            "Jane Fitzgerald"
+                        ],
+                        "description": "Interviews with Superintendent Jaramazovic and Senior Sergeant Fitzgerald continue to offer insights into the significance of the training, the transition into operational roles, and the values upheld by the Queensland Police Service"
+                    }
+                ],
+                "contextualRelevance": "This scene marks the culmination of the training and emphasizes the transition into operational roles, highlighting the values and expectations placed upon new officers.",
+                "dynamismScore": 0.7,
+                "mood": {
+                    "description": "Proud. The graduation ceremony, positive testimonials, and community interaction visuals contribute to a sense of pride and accomplishment.",
+                    "keyMoments": []
+                },
+                "narrativeProgression": [
+                    {
+                        "description": "Unknown Officer 1 stresses the critical importance of the rigorous training for preparing recruits for real-world policing",
+                        "timestamp": "00:02:05.000"
+                    },
+                    {
+                        "description": "Superintendent Jaramazovic reinforces the necessity of both knowledge of laws and the ability to make critical decisions in high-pressure situations",
+                        "timestamp": "00:02:17.000"
+                    },
+                    {
+                        "description": "Senior Sergeant Fitzgerald outlines the first year of service, its structure, and the continuous support provided to newly graduated officers",
+                        "timestamp": "00:03:06.000"
+                    },
+                    {
+                        "description": "Superintendent Jaramazovic emphasizes the importance of leadership and community engagement as core values for the Queensland Police Service",
+                        "timestamp": "00:03:56.000"
+                    }
+                ],
+                "props": [
+                    {
+                        "name": "Queensland Police Service Academy North Queensland Campus building",
+                        "timestamp": {
+                            "end_timestamp": "00:02:05.000",
+                            "start_timestamp": "00:02:04.000"
+                        }
+                    },
+                    {
+                        "name": "Handcuffs",
+                        "timestamp": {
+                            "end_timestamp": "00:02:16.000",
+                            "start_timestamp": "00:02:15.000"
+                        }
+                    },
+                    {
+                        "name": "Bob Atkinson Operational Capabilities Centre building",
+                        "timestamp": {
+                            "end_timestamp": "00:02:18.000",
+                            "start_timestamp": "00:02:17.000"
+                        }
+                    },
+                    {
+                        "name": "Sign that reads \"Integrity\"",
+                        "timestamp": {
+                            "end_timestamp": "00:02:50.000",
+                            "start_timestamp": "00:02:49.000"
+                        }
+                    },
+                    {
+                        "name": "Sign that reads \"Community\"",
+                        "timestamp": {
+                            "end_timestamp": "00:02:52.000",
+                            "start_timestamp": "00:02:51.000"
+                        }
+                    },
+                    {
+                        "name": "Sign that reads \"Respect and Fairness\"",
+                        "timestamp": {
+                            "end_timestamp": "00:02:53.000",
+                            "start_timestamp": "00:02:52.000"
+                        }
+                    },
+                    {
+                        "name": "Sign that reads \"Professionalism\"",
+                        "timestamp": {
+                            "end_timestamp": "00:02:55.000",
+                            "start_timestamp": "00:02:54.000"
+                        }
+                    }
+                ],
+                "sceneId": 5,
+                "thematicElements": "The real-world application of the training program, the development of strong ethical and moral principles, the transition from recruit to fully operational police officer, the role of leadership and community engagement in policing.",
+                "timestamps": {
+                    "end_timestamp": "00:04:20.920",
+                    "start_timestamp": "00:02:02.760"
+                },
+                "title": "Graduation and Transition",
+                "videoEditingDetails": [
+                    {
+                        "description": "Fast cuts between different training activities and interviews",
+                        "timestamps": {
+                            "end_timestamp": "00:04:07.000",
+                            "start_timestamp": "00:02:09.000"
+                        }
+                    }
+                ]
+            },
+            {
+                "activities": [],
+                "audioVisualCorrelation": 0,
+                "cast": [],
+                "characterInteraction": [],
+                "contextualRelevance": "The scene serves as a closing segment providing contact information and channels for further engagement, rather than contributing to a narrative storyline.",
+                "dynamismScore": 0.2,
+                "mood": {
+                    "description": "Neutral. It serves as a closing segment providing contact information and channels for further engagement.",
+                    "keyMoments": []
+                },
+                "narrativeProgression": [
+                    {
+                        "description": "This scene provides concluding information and directs viewers to resources for further information.",
+                        "timestamp": "00:04:21.000"
+                    }
+                ],
+                "props": [
+                    {
+                        "name": "Queensland Police emblem",
+                        "timestamp": {
+                            "end_timestamp": "00:04:24.000",
+                            "start_timestamp": "00:04:23.000"
+                        }
+                    },
+                    {
+                        "name": "Social media icons and website addresses",
+                        "timestamp": {
+                            "end_timestamp": "00:04:26.000",
+                            "start_timestamp": "00:04:25.000"
+                        }
+                    }
+                ],
+                "sceneId": 6,
+                "thematicElements": "The scene serves as a closure to the video, providing avenues for further engagement with the audience.",
+                "timestamps": {
+                    "end_timestamp": "00:04:28.080",
+                    "start_timestamp": "00:04:20.960"
+                },
+                "title": "Closing and Contact Information",
+                "videoEditingDetails": [
+                    {
+                        "description": "Fade to black",
+                        "timestamps": {
+                            "end_timestamp": "00:04:23.000",
+                            "start_timestamp": "00:04:22.000"
+                        }
+                    },
+                    {
+                        "description": "Queensland Police emblem animation",
+                        "timestamps": {
+                            "end_timestamp": "00:04:24.000",
+                            "start_timestamp": "00:04:23.000"
+                        }
+                    },
+                    {
+                        "description": "Text overlay with social media icons and website addresses",
+                        "timestamps": {
+                            "end_timestamp": "00:04:26.000",
+                            "start_timestamp": "00:04:25.000"
+                        }
+                    }
+                ]
+            }
+        ],
+        "storylines": {
+            "climax": {
+                "description": "The graduation ceremony visually represents the successful completion of training and the official transition into the role of a police officer.",
+                "timestamp": "00:03:08.000"
+            },
+            "description": "The video narrates the life, challenges, and experiences of police recruits at the Queensland Police Service Academy through various scenes.",
+            "scenes": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        "title": "Life at the Academy",
+        "trimmingSuggestions": [
+            {
+                "description": "This segment could be shortened by combining the shots of recruits working on computers with the classroom lecture shot.",
+                "timestamps": {
+                    "end_timestamp": "00:04:20.960",
+                    "start_timestamp": "00:04:20.960"
+                }
+            },
+            {
+                "description": "The extended focus on handcuffing training could be trimmed to maintain a more dynamic flow of visuals and prevent repetition.",
+                "timestamps": {
+                    "end_timestamp": "00:04:20.960",
+                    "start_timestamp": "00:04:20.960"
+                }
+            }
+        ]
+    },
+    "content_parent_category": "Sports",
+    "duration_seconds": 268,
+    "original_json_filename": "G_VTkkb34gw.json",
+    "original_video_filename": "G_VTkkb34gw.mp4",
+    "resolution": "640x360",
+    "text_to_speech": "[Music] [Applause] [Music] 154 yeah [Applause] Life as a QPS recruit is very full-on it's you kind of live and breathe Academy you go to bed thinking about what you learned that day you wake up thinking about what you're going to learn that in the next day it is yeah it's definitely very consuming but it's been amazing learning the ins and outs of policing the purpose of the course is to make sure that the people we've selected to join the organization are job ready by the time they leave and are sworn in a typical day for a recruit here at the Academy they would normally commence their morning where a morning parade and roll call then depending on what is scheduled for that particular day they could be doing some of their online learning products and assessment items they could be having some tutorial sessions with facilitators or they could be undertaking what we have called scenario-based training where they run through some practice scenarios in preparation for them being out on the road operationally it's a challenging course so the expectation upon them is to be committed to the learnings that are undertaken within the academy so the biggest challenge from a job that was that was hired all day every day to being in a classroom and doing lots and lots of study so it was a really big life adjustment for me but yeah after a couple of months it definitely started to feel like my new normal look the training is critical um it's it's critical for the organization to make sure that by the time someone has sworn in that they have the skill set to actually undertake the job but what it requires is not only an understanding of the laws and the legislative power that we have and are able to use in extreme circumstances but it's also an understanding of how they make decisions in a crisis environment at times and that requires a lot of not only the skills in terms of the learnings but it requires that the people that we select who have a value alignment with the organization being strong in Integrity having a sense of community a respect and fairness and professionalism that they apply those values in an operational environment at every time upon their successful completion and graduation the program they then enter into their first year so whilst the academy they're allocated at different training centers around the state upon graduation they will transfer to those training stations within those stations are a number of field training officers who will then for a first year Constable that is a 12-month period their first two months is 100 supervision and then after that two months is 50 supervision through that period of time there's a number of workplace activities that they need to meet the requirements of and at the end of that 18 months having collectively successfully passed everything they'll then be confirmed and be fully operational police officer that can work without supervision we certainly try and highlight to recruits that being a member of this organization there is an expectation by the community of showing leadership and being looked upon to be a leader and we very much value our development of people as leaders in the organization [Music] foreign",
+    "text_to_speech_word_count": 562,
+    "timecoded_text_to_speech": [
+        {
+            "end": "00:00:03.560",
+            "start": "00:00:00.000",
+            "text": " Good luck and may I assist you?"
+        },
+        {
+            "end": "00:00:21.040",
+            "start": "00:00:18.560",
+            "text": " Go! Go!"
+        },
+        {
+            "end": "00:00:27.160",
+            "start": "00:00:26.000",
+            "text": " Three."
+        },
+        {
+            "end": "00:00:28.800",
+            "start": "00:00:27.560",
+            "text": " Two."
+        },
+        {
+            "end": "00:00:37.000",
+            "start": "00:00:30.000",
+            "text": " Life as a QPS recruit is very fun."
+        },
+        {
+            "end": "00:00:40.000",
+            "start": "00:00:37.000",
+            "text": " You can kind of live and breathe economy."
+        },
+        {
+            "end": "00:00:42.000",
+            "start": "00:00:40.000",
+            "text": " You go to bed thinking about what you learnt that day."
+        },
+        {
+            "end": "00:00:45.000",
+            "start": "00:00:42.000",
+            "text": " You wake up thinking about what you're going to learn that in the next day."
+        },
+        {
+            "end": "00:00:53.000",
+            "start": "00:00:45.000",
+            "text": " It's definitely very consuming but it's been amazing learning the ins and outs of policing."
+        },
+        {
+            "end": "00:00:59.000",
+            "start": "00:00:53.000",
+            "text": " The purpose of the course is to make sure that the people we've selected to join the organisation"
+        },
+        {
+            "end": "00:01:03.000",
+            "start": "00:00:59.000",
+            "text": " are job ready by the time they leave and are sworn in."
+        },
+        {
+            "end": "00:01:09.000",
+            "start": "00:01:03.000",
+            "text": " A typical day for a recruit here at the academy, they would normally commence their morning"
+        },
+        {
+            "end": "00:01:16.000",
+            "start": "00:01:09.000",
+            "text": " with a morning parade and a roll call then depending on what is scheduled for that particular day"
+        },
+        {
+            "end": "00:01:21.000",
+            "start": "00:01:16.000",
+            "text": " they could be doing some of their online learning products and assessment items."
+        },
+        {
+            "end": "00:01:25.000",
+            "start": "00:01:21.000",
+            "text": " They could be having some tutorial sessions with facilitators."
+        },
+        {
+            "end": "00:01:30.000",
+            "start": "00:01:25.000",
+            "text": " All they could be undertaking what we have called scenario-based training"
+        },
+        {
+            "end": "00:01:38.000",
+            "start": "00:01:30.000",
+            "text": " where they run through some practice scenarios in preparation for them being out on the road operationally."
+        },
+        {
+            "end": "00:01:44.000",
+            "start": "00:01:38.000",
+            "text": " It's a challenging course so the expectation upon them is to be committed to the learnings"
+        },
+        {
+            "end": "00:01:46.000",
+            "start": "00:01:44.000",
+            "text": " that are undertaken within the academy."
+        },
+        {
+            "end": "00:01:50.000",
+            "start": "00:01:46.000",
+            "text": " So the biggest challenge for me starting was I went from a job that was outside all day"
+        },
+        {
+            "end": "00:01:55.000",
+            "start": "00:01:50.000",
+            "text": " every day to being in a classroom and doing lots and lots of study."
+        },
+        {
+            "end": "00:02:00.000",
+            "start": "00:01:55.000",
+            "text": " So it was a really big life adjustment for me but yeah after a couple of months"
+        },
+        {
+            "end": "00:02:03.000",
+            "start": "00:02:00.000",
+            "text": " I definitely started to feel like my new normal."
+        },
+        {
+            "end": "00:02:09.000",
+            "start": "00:02:05.000",
+            "text": " Look, the training is critical."
+        },
+        {
+            "end": "00:02:14.000",
+            "start": "00:02:09.000",
+            "text": " It's critical for the organisation to make sure that by the time someone is sworn in"
+        },
+        {
+            "end": "00:02:18.000",
+            "start": "00:02:14.000",
+            "text": " that they have the skills set to actually undertake the job."
+        },
+        {
+            "end": "00:02:25.000",
+            "start": "00:02:20.000",
+            "text": " The one that requires is not only an understanding of the laws and the legislative power"
+        },
+        {
+            "end": "00:02:31.000",
+            "start": "00:02:25.000",
+            "text": " that we have and are able to use in extreme circumstances but it's also an understanding"
+        },
+        {
+            "end": "00:02:38.000",
+            "start": "00:02:31.000",
+            "text": " of how they make decisions in a crisis environment at times and that requires"
+        },
+        {
+            "end": "00:02:45.000",
+            "start": "00:02:38.000",
+            "text": " not only the skills in terms of the learnings but it requires that the people that we select"
+        },
+        {
+            "end": "00:02:50.000",
+            "start": "00:02:45.000",
+            "text": " who have a value alignment with the organisation being strong and integrity,"
+        },
+        {
+            "end": "00:02:55.000",
+            "start": "00:02:50.000",
+            "text": " having a sense of community, a respect and fairness and professionalism"
+        },
+        {
+            "end": "00:03:01.000",
+            "start": "00:02:55.000",
+            "text": " that they apply those values in an operational environment at every time."
+        },
+        {
+            "end": "00:03:12.000",
+            "start": "00:03:06.000",
+            "text": " Upon their successful completion graduation the programme they then enter into their first year."
+        },
+        {
+            "end": "00:03:17.000",
+            "start": "00:03:12.000",
+            "text": " So whilst the academy they allocated at different training centres around the state"
+        },
+        {
+            "end": "00:03:22.000",
+            "start": "00:03:17.000",
+            "text": " upon graduation they will transfer to those training stations."
+        },
+        {
+            "end": "00:03:26.000",
+            "start": "00:03:22.000",
+            "text": " Within those stations are a number of field training officers who will then"
+        },
+        {
+            "end": "00:03:30.000",
+            "start": "00:03:26.000",
+            "text": " for a first year constable that is a 12 month period."
+        },
+        {
+            "end": "00:03:34.000",
+            "start": "00:03:30.000",
+            "text": " Their first two months is a hundred percent supervision and then after that two months"
+        },
+        {
+            "end": "00:03:36.000",
+            "start": "00:03:34.000",
+            "text": " is 50 percent supervision."
+        },
+        {
+            "end": "00:03:40.000",
+            "start": "00:03:36.000",
+            "text": " Through that period of time there's a number of workplace activities that they need"
+        },
+        {
+            "end": "00:03:46.000",
+            "start": "00:03:40.000",
+            "text": " to meet the requirements of and at the end of the 18 months having collectively successfully"
+        },
+        {
+            "end": "00:03:53.000",
+            "start": "00:03:46.000",
+            "text": " passed everything they'll then be confirmed and be a fully operational police officer"
+        },
+        {
+            "end": "00:03:55.000",
+            "start": "00:03:53.000",
+            "text": " that can work without supervision."
+        },
+        {
+            "end": "00:04:01.000",
+            "start": "00:03:55.000",
+            "text": " We're certainly trying hard to recruit so that being a member of this organisation"
+        },
+        {
+            "end": "00:04:07.000",
+            "start": "00:04:01.000",
+            "text": " there is an expectation by the community of showing leadership and being looked upon to be a leader"
+        },
+        {
+            "end": "00:04:13.000",
+            "start": "00:04:07.000",
+            "text": " and we very much value our development of people as leaders in the organisation."
+        }
+    ],
+    "youtube_age_limit": 0,
+    "youtube_categories": [
+        "News & Politics"
+    ],
+    "youtube_channel": "QueenslandPolice",
+    "youtube_channel_follower_count": 11000,
+    "youtube_comment_count": 0,
+    "youtube_description": "A career in policing offers a unique blend of excitement, learning, and the opportunity to positively influence the community. There is no better time to join the Queensland Police Service.\n\nVisit https://www.policerecruit.qld.gov.au/ to take the first step towards a challenging and rewarding career and apply now.",
+    "youtube_like_count": 0,
+    "youtube_tags": [
+        "qps",
+        "queensland police service",
+        "queensland police",
+        "qld police",
+        "qld",
+        "queensland",
+        "police",
+        "cop",
+        "cops"
+    ],
+    "youtube_title": "Life at the Academy - Queensland Police Service",
+    "youtube_upload_date": "20230921",
+    "youtube_view_count": 18366
+}
