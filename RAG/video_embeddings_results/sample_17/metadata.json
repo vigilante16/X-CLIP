@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_17.mp4",
+  "video_filename": "sample_17.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    88.33,
+    177.0,
+    265.33,
+    354.0,
+    442.33,
+    531.0,
+    619.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A dynamic show featuring wrestling highlights, backstage stories, and fan engagement.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 88.33,
+      "text": "A dynamic show featuring wrestling highlights, backstage stories, and fan engagement.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 177.0,
+      "text": "A dynamic show featuring wrestling highlights, backstage stories, and fan engagement.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 265.33,
+      "text": "A dynamic show featuring wrestling highlights, backstage stories, and fan engagement.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 354.0,
+      "text": "A dynamic show featuring wrestling highlights, backstage stories, and fan engagement.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 442.33,
+      "text": "A dynamic show featuring wrestling highlights, backstage stories, and fan engagement.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 531.0,
+      "text": "A dynamic show featuring wrestling highlights, backstage stories, and fan engagement.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 619.67,
+      "text": "A dynamic show featuring wrestling highlights, backstage stories, and fan engagement.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1860,
+    "fps": 3.0,
+    "duration_seconds": 620.0,
+    "duration_minutes": 10.33
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

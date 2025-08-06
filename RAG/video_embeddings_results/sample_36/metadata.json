@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_36.mp4",
+  "video_filename": "sample_36.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    68.67,
+    137.67,
+    206.67,
+    275.33,
+    344.33,
+    413.33,
+    482.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "The video explores the personal and professional journey of rapper Lefty Gunplay, his musical influences, and highlights his transformation from gang life to success as a rapper.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 68.67,
+      "text": "The video explores the personal and professional journey of rapper Lefty Gunplay, his musical influences, and highlights his transformation from gang life to success as a rapper.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 137.67,
+      "text": "The video explores the personal and professional journey of rapper Lefty Gunplay, his musical influences, and highlights his transformation from gang life to success as a rapper.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 206.67,
+      "text": "The video explores the personal and professional journey of rapper Lefty Gunplay, his musical influences, and highlights his transformation from gang life to success as a rapper.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 275.33,
+      "text": "The video explores the personal and professional journey of rapper Lefty Gunplay, his musical influences, and highlights his transformation from gang life to success as a rapper.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 344.33,
+      "text": "The video explores the personal and professional journey of rapper Lefty Gunplay, his musical influences, and highlights his transformation from gang life to success as a rapper.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 413.33,
+      "text": "The video explores the personal and professional journey of rapper Lefty Gunplay, his musical influences, and highlights his transformation from gang life to success as a rapper.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 482.33,
+      "text": "The video explores the personal and professional journey of rapper Lefty Gunplay, his musical influences, and highlights his transformation from gang life to success as a rapper.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1448,
+    "fps": 3.0,
+    "duration_seconds": 482.67,
+    "duration_minutes": 8.04
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

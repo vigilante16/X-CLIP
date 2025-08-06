@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_89.mp4",
+  "video_filename": "sample_89.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    44.0,
+    88.0,
+    132.0,
+    176.0,
+    220.0,
+    264.0,
+    308.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An in-depth analysis of the video celebrating Aaron Judge's American League MVP win, highlighting character interactions, thematic elements, and potential trimming suggestions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 44.0,
+      "text": "An in-depth analysis of the video celebrating Aaron Judge's American League MVP win, highlighting character interactions, thematic elements, and potential trimming suggestions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 88.0,
+      "text": "An in-depth analysis of the video celebrating Aaron Judge's American League MVP win, highlighting character interactions, thematic elements, and potential trimming suggestions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 132.0,
+      "text": "An in-depth analysis of the video celebrating Aaron Judge's American League MVP win, highlighting character interactions, thematic elements, and potential trimming suggestions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 176.0,
+      "text": "An in-depth analysis of the video celebrating Aaron Judge's American League MVP win, highlighting character interactions, thematic elements, and potential trimming suggestions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 220.0,
+      "text": "An in-depth analysis of the video celebrating Aaron Judge's American League MVP win, highlighting character interactions, thematic elements, and potential trimming suggestions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 264.0,
+      "text": "An in-depth analysis of the video celebrating Aaron Judge's American League MVP win, highlighting character interactions, thematic elements, and potential trimming suggestions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 308.33,
+      "text": "An in-depth analysis of the video celebrating Aaron Judge's American League MVP win, highlighting character interactions, thematic elements, and potential trimming suggestions.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 926,
+    "fps": 3.0,
+    "duration_seconds": 308.67,
+    "duration_minutes": 5.14
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

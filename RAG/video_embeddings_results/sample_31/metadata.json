@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_31.mp4",
+  "video_filename": "sample_31.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    12.67,
+    25.67,
+    38.67,
+    51.33,
+    64.33,
+    77.33,
+    90.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An analysis of a fencing match footage focusing on character description, scene breakdown, mood, narrative progression, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 12.67,
+      "text": "An analysis of a fencing match footage focusing on character description, scene breakdown, mood, narrative progression, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 25.67,
+      "text": "An analysis of a fencing match footage focusing on character description, scene breakdown, mood, narrative progression, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 38.67,
+      "text": "An analysis of a fencing match footage focusing on character description, scene breakdown, mood, narrative progression, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 51.33,
+      "text": "An analysis of a fencing match footage focusing on character description, scene breakdown, mood, narrative progression, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 64.33,
+      "text": "An analysis of a fencing match footage focusing on character description, scene breakdown, mood, narrative progression, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 77.33,
+      "text": "An analysis of a fencing match footage focusing on character description, scene breakdown, mood, narrative progression, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 90.33,
+      "text": "An analysis of a fencing match footage focusing on character description, scene breakdown, mood, narrative progression, and thematic elements.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 272,
+    "fps": 3.0,
+    "duration_seconds": 90.67,
+    "duration_minutes": 1.51
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_62.mp4",
+  "video_filename": "sample_62.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    7.33,
+    14.67,
+    22.33,
+    29.67,
+    37.33,
+    44.67,
+    52.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An instructional video focusing on the swimming technique known as the Fingertip Drag or Zipper Drill, explained and demonstrated by a coach and swimmer.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 7.33,
+      "text": "An instructional video focusing on the swimming technique known as the Fingertip Drag or Zipper Drill, explained and demonstrated by a coach and swimmer.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 14.67,
+      "text": "An instructional video focusing on the swimming technique known as the Fingertip Drag or Zipper Drill, explained and demonstrated by a coach and swimmer.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 22.33,
+      "text": "An instructional video focusing on the swimming technique known as the Fingertip Drag or Zipper Drill, explained and demonstrated by a coach and swimmer.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 29.67,
+      "text": "An instructional video focusing on the swimming technique known as the Fingertip Drag or Zipper Drill, explained and demonstrated by a coach and swimmer.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 37.33,
+      "text": "An instructional video focusing on the swimming technique known as the Fingertip Drag or Zipper Drill, explained and demonstrated by a coach and swimmer.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 44.67,
+      "text": "An instructional video focusing on the swimming technique known as the Fingertip Drag or Zipper Drill, explained and demonstrated by a coach and swimmer.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 52.33,
+      "text": "An instructional video focusing on the swimming technique known as the Fingertip Drag or Zipper Drill, explained and demonstrated by a coach and swimmer.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 158,
+    "fps": 3.0,
+    "duration_seconds": 52.67,
+    "duration_minutes": 0.88
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

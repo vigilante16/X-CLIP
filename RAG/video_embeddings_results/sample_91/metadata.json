@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_91.mp4",
+  "video_filename": "sample_91.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    10.67,
+    21.67,
+    32.67,
+    43.67,
+    54.67,
+    65.67,
+    76.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "Analysis of the trailer for the Doom-Flayer from Total War: WARHAMMER II.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 10.67,
+      "text": "Analysis of the trailer for the Doom-Flayer from Total War: WARHAMMER II.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 21.67,
+      "text": "Analysis of the trailer for the Doom-Flayer from Total War: WARHAMMER II.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 32.67,
+      "text": "Analysis of the trailer for the Doom-Flayer from Total War: WARHAMMER II.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 43.67,
+      "text": "Analysis of the trailer for the Doom-Flayer from Total War: WARHAMMER II.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 54.67,
+      "text": "Analysis of the trailer for the Doom-Flayer from Total War: WARHAMMER II.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 65.67,
+      "text": "Analysis of the trailer for the Doom-Flayer from Total War: WARHAMMER II.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 76.67,
+      "text": "Analysis of the trailer for the Doom-Flayer from Total War: WARHAMMER II.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 231,
+    "fps": 3.0,
+    "duration_seconds": 77.0,
+    "duration_minutes": 1.28
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

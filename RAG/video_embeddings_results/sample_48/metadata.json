@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_48.mp4",
+  "video_filename": "sample_48.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    23.0,
+    46.33,
+    69.67,
+    93.0,
+    116.33,
+    139.67,
+    163.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An insightful analysis of the 3D animated rocket video showcasing the Juno 1 Rocket and its launch, focusing on technical details, historical context, and satellite achievement.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 23.0,
+      "text": "An insightful analysis of the 3D animated rocket video showcasing the Juno 1 Rocket and its launch, focusing on technical details, historical context, and satellite achievement.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 46.33,
+      "text": "An insightful analysis of the 3D animated rocket video showcasing the Juno 1 Rocket and its launch, focusing on technical details, historical context, and satellite achievement.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 69.67,
+      "text": "An insightful analysis of the 3D animated rocket video showcasing the Juno 1 Rocket and its launch, focusing on technical details, historical context, and satellite achievement.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 93.0,
+      "text": "An insightful analysis of the 3D animated rocket video showcasing the Juno 1 Rocket and its launch, focusing on technical details, historical context, and satellite achievement.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 116.33,
+      "text": "An insightful analysis of the 3D animated rocket video showcasing the Juno 1 Rocket and its launch, focusing on technical details, historical context, and satellite achievement.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 139.67,
+      "text": "An insightful analysis of the 3D animated rocket video showcasing the Juno 1 Rocket and its launch, focusing on technical details, historical context, and satellite achievement.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 163.0,
+      "text": "An insightful analysis of the 3D animated rocket video showcasing the Juno 1 Rocket and its launch, focusing on technical details, historical context, and satellite achievement.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 490,
+    "fps": 3.0,
+    "duration_seconds": 163.33,
+    "duration_minutes": 2.72
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

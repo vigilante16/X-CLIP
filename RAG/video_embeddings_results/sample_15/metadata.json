@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_15.mp4",
+  "video_filename": "sample_15.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    20.0,
+    40.33,
+    60.67,
+    81.0,
+    101.33,
+    121.67,
+    142.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "This video highlights the journey of Dr. Lem Burnham, focusing on his military service in the Marine Corps, his NFL career, and his dedication to helping veterans. Dr. Burnham shares his experiences, reflecting on the challenges of the Marine Corps and the skills he transferred to his successful football career. His story is also an expression of gratitude and commitment to veterans' education.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 20.0,
+      "text": "This video highlights the journey of Dr. Lem Burnham, focusing on his military service in the Marine Corps, his NFL career, and his dedication to helping veterans. Dr. Burnham shares his experiences, reflecting on the challenges of the Marine Corps and the skills he transferred to his successful football career. His story is also an expression of gratitude and commitment to veterans' education.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 40.33,
+      "text": "This video highlights the journey of Dr. Lem Burnham, focusing on his military service in the Marine Corps, his NFL career, and his dedication to helping veterans. Dr. Burnham shares his experiences, reflecting on the challenges of the Marine Corps and the skills he transferred to his successful football career. His story is also an expression of gratitude and commitment to veterans' education.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 60.67,
+      "text": "This video highlights the journey of Dr. Lem Burnham, focusing on his military service in the Marine Corps, his NFL career, and his dedication to helping veterans. Dr. Burnham shares his experiences, reflecting on the challenges of the Marine Corps and the skills he transferred to his successful football career. His story is also an expression of gratitude and commitment to veterans' education.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 81.0,
+      "text": "This video highlights the journey of Dr. Lem Burnham, focusing on his military service in the Marine Corps, his NFL career, and his dedication to helping veterans. Dr. Burnham shares his experiences, reflecting on the challenges of the Marine Corps and the skills he transferred to his successful football career. His story is also an expression of gratitude and commitment to veterans' education.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 101.33,
+      "text": "This video highlights the journey of Dr. Lem Burnham, focusing on his military service in the Marine Corps, his NFL career, and his dedication to helping veterans. Dr. Burnham shares his experiences, reflecting on the challenges of the Marine Corps and the skills he transferred to his successful football career. His story is also an expression of gratitude and commitment to veterans' education.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 121.67,
+      "text": "This video highlights the journey of Dr. Lem Burnham, focusing on his military service in the Marine Corps, his NFL career, and his dedication to helping veterans. Dr. Burnham shares his experiences, reflecting on the challenges of the Marine Corps and the skills he transferred to his successful football career. His story is also an expression of gratitude and commitment to veterans' education.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 142.0,
+      "text": "This video highlights the journey of Dr. Lem Burnham, focusing on his military service in the Marine Corps, his NFL career, and his dedication to helping veterans. Dr. Burnham shares his experiences, reflecting on the challenges of the Marine Corps and the skills he transferred to his successful football career. His story is also an expression of gratitude and commitment to veterans' education.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 427,
+    "fps": 3.0,
+    "duration_seconds": 142.33,
+    "duration_minutes": 2.37
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

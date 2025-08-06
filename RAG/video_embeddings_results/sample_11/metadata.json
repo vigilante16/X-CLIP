@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_11.mp4",
+  "video_filename": "sample_11.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    19.67,
+    39.67,
+    59.33,
+    79.33,
+    99.0,
+    119.0,
+    139.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A video featuring swordplay instruction focusing on basic guards and cuts of the Bolognese sidesword system.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 19.67,
+      "text": "A video featuring swordplay instruction focusing on basic guards and cuts of the Bolognese sidesword system.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 39.67,
+      "text": "A video featuring swordplay instruction focusing on basic guards and cuts of the Bolognese sidesword system.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 59.33,
+      "text": "A video featuring swordplay instruction focusing on basic guards and cuts of the Bolognese sidesword system.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 79.33,
+      "text": "A video featuring swordplay instruction focusing on basic guards and cuts of the Bolognese sidesword system.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 99.0,
+      "text": "A video featuring swordplay instruction focusing on basic guards and cuts of the Bolognese sidesword system.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 119.0,
+      "text": "A video featuring swordplay instruction focusing on basic guards and cuts of the Bolognese sidesword system.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 139.0,
+      "text": "A video featuring swordplay instruction focusing on basic guards and cuts of the Bolognese sidesword system.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 418,
+    "fps": 3.0,
+    "duration_seconds": 139.33,
+    "duration_minutes": 2.32
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

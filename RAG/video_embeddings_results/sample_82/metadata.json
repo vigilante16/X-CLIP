@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_82.mp4",
+  "video_filename": "sample_82.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    78.0,
+    156.33,
+    234.67,
+    312.67,
+    391.0,
+    469.33,
+    547.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A detailed breakdown of the boxing match between Shiva Thapa and Elnur Abduraimov, including character lists, scene analysis, storylines, and more.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 78.0,
+      "text": "A detailed breakdown of the boxing match between Shiva Thapa and Elnur Abduraimov, including character lists, scene analysis, storylines, and more.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 156.33,
+      "text": "A detailed breakdown of the boxing match between Shiva Thapa and Elnur Abduraimov, including character lists, scene analysis, storylines, and more.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 234.67,
+      "text": "A detailed breakdown of the boxing match between Shiva Thapa and Elnur Abduraimov, including character lists, scene analysis, storylines, and more.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 312.67,
+      "text": "A detailed breakdown of the boxing match between Shiva Thapa and Elnur Abduraimov, including character lists, scene analysis, storylines, and more.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 391.0,
+      "text": "A detailed breakdown of the boxing match between Shiva Thapa and Elnur Abduraimov, including character lists, scene analysis, storylines, and more.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 469.33,
+      "text": "A detailed breakdown of the boxing match between Shiva Thapa and Elnur Abduraimov, including character lists, scene analysis, storylines, and more.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 547.67,
+      "text": "A detailed breakdown of the boxing match between Shiva Thapa and Elnur Abduraimov, including character lists, scene analysis, storylines, and more.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1644,
+    "fps": 3.0,
+    "duration_seconds": 548.0,
+    "duration_minutes": 9.13
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_22.mp4",
+  "video_filename": "sample_22.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    37.0,
+    74.33,
+    111.67,
+    148.67,
+    186.0,
+    223.33,
+    260.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A video capturing a celebrity midget boxing match featuring Lil Troy, Midget Mac, and various performers and audience members. The video includes club performances, the boxing match, and audience reactions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 37.0,
+      "text": "A video capturing a celebrity midget boxing match featuring Lil Troy, Midget Mac, and various performers and audience members. The video includes club performances, the boxing match, and audience reactions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 74.33,
+      "text": "A video capturing a celebrity midget boxing match featuring Lil Troy, Midget Mac, and various performers and audience members. The video includes club performances, the boxing match, and audience reactions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 111.67,
+      "text": "A video capturing a celebrity midget boxing match featuring Lil Troy, Midget Mac, and various performers and audience members. The video includes club performances, the boxing match, and audience reactions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 148.67,
+      "text": "A video capturing a celebrity midget boxing match featuring Lil Troy, Midget Mac, and various performers and audience members. The video includes club performances, the boxing match, and audience reactions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 186.0,
+      "text": "A video capturing a celebrity midget boxing match featuring Lil Troy, Midget Mac, and various performers and audience members. The video includes club performances, the boxing match, and audience reactions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 223.33,
+      "text": "A video capturing a celebrity midget boxing match featuring Lil Troy, Midget Mac, and various performers and audience members. The video includes club performances, the boxing match, and audience reactions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 260.67,
+      "text": "A video capturing a celebrity midget boxing match featuring Lil Troy, Midget Mac, and various performers and audience members. The video includes club performances, the boxing match, and audience reactions.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 783,
+    "fps": 3.0,
+    "duration_seconds": 261.0,
+    "duration_minutes": 4.35
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

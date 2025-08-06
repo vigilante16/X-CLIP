@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_49.mp4",
+  "video_filename": "sample_49.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    3.33,
+    7.0,
+    10.33,
+    14.0,
+    17.33,
+    21.0,
+    24.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "Analysis of a basketball game between the Brooklyn Nets and the Los Angeles Lakers, focusing on key players and scenes.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 3.33,
+      "text": "Analysis of a basketball game between the Brooklyn Nets and the Los Angeles Lakers, focusing on key players and scenes.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 7.0,
+      "text": "Analysis of a basketball game between the Brooklyn Nets and the Los Angeles Lakers, focusing on key players and scenes.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 10.33,
+      "text": "Analysis of a basketball game between the Brooklyn Nets and the Los Angeles Lakers, focusing on key players and scenes.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 14.0,
+      "text": "Analysis of a basketball game between the Brooklyn Nets and the Los Angeles Lakers, focusing on key players and scenes.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 17.33,
+      "text": "Analysis of a basketball game between the Brooklyn Nets and the Los Angeles Lakers, focusing on key players and scenes.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 21.0,
+      "text": "Analysis of a basketball game between the Brooklyn Nets and the Los Angeles Lakers, focusing on key players and scenes.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 24.67,
+      "text": "Analysis of a basketball game between the Brooklyn Nets and the Los Angeles Lakers, focusing on key players and scenes.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 75,
+    "fps": 3.0,
+    "duration_seconds": 25.0,
+    "duration_minutes": 0.42
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

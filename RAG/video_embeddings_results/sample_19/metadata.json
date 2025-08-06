@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_19.mp4",
+  "video_filename": "sample_19.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    26.67,
+    53.33,
+    80.33,
+    107.0,
+    134.0,
+    160.67,
+    187.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A detailed scene-by-scene analysis of a wrestling match, identifying key elements, themes, and narrative progressions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 26.67,
+      "text": "A detailed scene-by-scene analysis of a wrestling match, identifying key elements, themes, and narrative progressions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 53.33,
+      "text": "A detailed scene-by-scene analysis of a wrestling match, identifying key elements, themes, and narrative progressions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 80.33,
+      "text": "A detailed scene-by-scene analysis of a wrestling match, identifying key elements, themes, and narrative progressions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 107.0,
+      "text": "A detailed scene-by-scene analysis of a wrestling match, identifying key elements, themes, and narrative progressions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 134.0,
+      "text": "A detailed scene-by-scene analysis of a wrestling match, identifying key elements, themes, and narrative progressions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 160.67,
+      "text": "A detailed scene-by-scene analysis of a wrestling match, identifying key elements, themes, and narrative progressions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 187.67,
+      "text": "A detailed scene-by-scene analysis of a wrestling match, identifying key elements, themes, and narrative progressions.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 564,
+    "fps": 3.0,
+    "duration_seconds": 188.0,
+    "duration_minutes": 3.13
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

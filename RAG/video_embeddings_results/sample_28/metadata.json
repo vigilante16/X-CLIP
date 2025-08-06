@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_28.mp4",
+  "video_filename": "sample_28.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    58.33,
+    117.0,
+    175.33,
+    234.0,
+    292.33,
+    351.0,
+    409.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A video analysis featuring Kaykrizz discussing the topic of being a flight attendant with dentures and promoting her book.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 58.33,
+      "text": "A video analysis featuring Kaykrizz discussing the topic of being a flight attendant with dentures and promoting her book.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 117.0,
+      "text": "A video analysis featuring Kaykrizz discussing the topic of being a flight attendant with dentures and promoting her book.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 175.33,
+      "text": "A video analysis featuring Kaykrizz discussing the topic of being a flight attendant with dentures and promoting her book.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 234.0,
+      "text": "A video analysis featuring Kaykrizz discussing the topic of being a flight attendant with dentures and promoting her book.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 292.33,
+      "text": "A video analysis featuring Kaykrizz discussing the topic of being a flight attendant with dentures and promoting her book.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 351.0,
+      "text": "A video analysis featuring Kaykrizz discussing the topic of being a flight attendant with dentures and promoting her book.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 409.67,
+      "text": "A video analysis featuring Kaykrizz discussing the topic of being a flight attendant with dentures and promoting her book.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1230,
+    "fps": 3.0,
+    "duration_seconds": 410.0,
+    "duration_minutes": 6.83
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

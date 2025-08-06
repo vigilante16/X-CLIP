@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_95.mp4",
+  "video_filename": "sample_95.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    8.33,
+    17.0,
+    25.67,
+    34.33,
+    43.0,
+    51.67,
+    60.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An overview of a mountaineering adventure, narrated by the climber who completed the activity.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 8.33,
+      "text": "An overview of a mountaineering adventure, narrated by the climber who completed the activity.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 17.0,
+      "text": "An overview of a mountaineering adventure, narrated by the climber who completed the activity.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 25.67,
+      "text": "An overview of a mountaineering adventure, narrated by the climber who completed the activity.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 34.33,
+      "text": "An overview of a mountaineering adventure, narrated by the climber who completed the activity.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 43.0,
+      "text": "An overview of a mountaineering adventure, narrated by the climber who completed the activity.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 51.67,
+      "text": "An overview of a mountaineering adventure, narrated by the climber who completed the activity.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 60.33,
+      "text": "An overview of a mountaineering adventure, narrated by the climber who completed the activity.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 182,
+    "fps": 3.0,
+    "duration_seconds": 60.67,
+    "duration_minutes": 1.01
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

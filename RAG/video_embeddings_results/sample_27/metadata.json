@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_27.mp4",
+  "video_filename": "sample_27.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    55.33,
+    111.0,
+    166.67,
+    222.33,
+    278.0,
+    333.67,
+    389.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A video featuring a post-match reaction to a match between Wales and Ireland, hosted by Matt Holland and a reporter.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 55.33,
+      "text": "A video featuring a post-match reaction to a match between Wales and Ireland, hosted by Matt Holland and a reporter.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 111.0,
+      "text": "A video featuring a post-match reaction to a match between Wales and Ireland, hosted by Matt Holland and a reporter.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 166.67,
+      "text": "A video featuring a post-match reaction to a match between Wales and Ireland, hosted by Matt Holland and a reporter.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 222.33,
+      "text": "A video featuring a post-match reaction to a match between Wales and Ireland, hosted by Matt Holland and a reporter.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 278.0,
+      "text": "A video featuring a post-match reaction to a match between Wales and Ireland, hosted by Matt Holland and a reporter.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 333.67,
+      "text": "A video featuring a post-match reaction to a match between Wales and Ireland, hosted by Matt Holland and a reporter.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 389.33,
+      "text": "A video featuring a post-match reaction to a match between Wales and Ireland, hosted by Matt Holland and a reporter.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1169,
+    "fps": 3.0,
+    "duration_seconds": 389.67,
+    "duration_minutes": 6.49
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_71.mp4",
+  "video_filename": "sample_71.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    15.67,
+    31.33,
+    47.0,
+    62.67,
+    78.33,
+    94.0,
+    109.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An insightful two-part interview with Players 4 and 21 as they reflect on their gold medal victory at the SEA Games, emphasizing their preparation, experience, and appreciation for the fans.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 15.67,
+      "text": "An insightful two-part interview with Players 4 and 21 as they reflect on their gold medal victory at the SEA Games, emphasizing their preparation, experience, and appreciation for the fans.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 31.33,
+      "text": "An insightful two-part interview with Players 4 and 21 as they reflect on their gold medal victory at the SEA Games, emphasizing their preparation, experience, and appreciation for the fans.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 47.0,
+      "text": "An insightful two-part interview with Players 4 and 21 as they reflect on their gold medal victory at the SEA Games, emphasizing their preparation, experience, and appreciation for the fans.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 62.67,
+      "text": "An insightful two-part interview with Players 4 and 21 as they reflect on their gold medal victory at the SEA Games, emphasizing their preparation, experience, and appreciation for the fans.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 78.33,
+      "text": "An insightful two-part interview with Players 4 and 21 as they reflect on their gold medal victory at the SEA Games, emphasizing their preparation, experience, and appreciation for the fans.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 94.0,
+      "text": "An insightful two-part interview with Players 4 and 21 as they reflect on their gold medal victory at the SEA Games, emphasizing their preparation, experience, and appreciation for the fans.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 109.67,
+      "text": "An insightful two-part interview with Players 4 and 21 as they reflect on their gold medal victory at the SEA Games, emphasizing their preparation, experience, and appreciation for the fans.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 330,
+    "fps": 3.0,
+    "duration_seconds": 110.0,
+    "duration_minutes": 1.83
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

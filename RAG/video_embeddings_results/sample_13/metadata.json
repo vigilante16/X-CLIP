@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_13.mp4",
+  "video_filename": "sample_13.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    41.33,
+    82.67,
+    124.0,
+    165.33,
+    206.67,
+    248.0,
+    289.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A detailed breakdown of the video content, capturing scene changes, character interactions, emotional nuances, and the overall narrative progression of Glacier's journey in professional wrestling.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 41.33,
+      "text": "A detailed breakdown of the video content, capturing scene changes, character interactions, emotional nuances, and the overall narrative progression of Glacier's journey in professional wrestling.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 82.67,
+      "text": "A detailed breakdown of the video content, capturing scene changes, character interactions, emotional nuances, and the overall narrative progression of Glacier's journey in professional wrestling.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 124.0,
+      "text": "A detailed breakdown of the video content, capturing scene changes, character interactions, emotional nuances, and the overall narrative progression of Glacier's journey in professional wrestling.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 165.33,
+      "text": "A detailed breakdown of the video content, capturing scene changes, character interactions, emotional nuances, and the overall narrative progression of Glacier's journey in professional wrestling.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 206.67,
+      "text": "A detailed breakdown of the video content, capturing scene changes, character interactions, emotional nuances, and the overall narrative progression of Glacier's journey in professional wrestling.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 248.0,
+      "text": "A detailed breakdown of the video content, capturing scene changes, character interactions, emotional nuances, and the overall narrative progression of Glacier's journey in professional wrestling.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 289.33,
+      "text": "A detailed breakdown of the video content, capturing scene changes, character interactions, emotional nuances, and the overall narrative progression of Glacier's journey in professional wrestling.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 869,
+    "fps": 3.0,
+    "duration_seconds": 289.67,
+    "duration_minutes": 4.83
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

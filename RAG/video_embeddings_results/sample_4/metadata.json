@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_4.mp4",
+  "video_filename": "sample_4.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    87.67,
+    175.33,
+    263.0,
+    350.67,
+    438.33,
+    526.0,
+    614.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "This video focuses on showcasing 10 NBA players who may have been forgotten to have played for the Golden State Warriors.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 87.67,
+      "text": "This video focuses on showcasing 10 NBA players who may have been forgotten to have played for the Golden State Warriors.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 175.33,
+      "text": "This video focuses on showcasing 10 NBA players who may have been forgotten to have played for the Golden State Warriors.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 263.0,
+      "text": "This video focuses on showcasing 10 NBA players who may have been forgotten to have played for the Golden State Warriors.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 350.67,
+      "text": "This video focuses on showcasing 10 NBA players who may have been forgotten to have played for the Golden State Warriors.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 438.33,
+      "text": "This video focuses on showcasing 10 NBA players who may have been forgotten to have played for the Golden State Warriors.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 526.0,
+      "text": "This video focuses on showcasing 10 NBA players who may have been forgotten to have played for the Golden State Warriors.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 614.0,
+      "text": "This video focuses on showcasing 10 NBA players who may have been forgotten to have played for the Golden State Warriors.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1843,
+    "fps": 3.0,
+    "duration_seconds": 614.33,
+    "duration_minutes": 10.24
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

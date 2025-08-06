@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_43.mp4",
+  "video_filename": "sample_43.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    31.0,
+    62.33,
+    93.67,
+    124.67,
+    156.0,
+    187.33,
+    218.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An analysis of James Harden's career, focusing on his strengths, weaknesses, and unexpected correlations between his performance and strip clubs.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 31.0,
+      "text": "An analysis of James Harden's career, focusing on his strengths, weaknesses, and unexpected correlations between his performance and strip clubs.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 62.33,
+      "text": "An analysis of James Harden's career, focusing on his strengths, weaknesses, and unexpected correlations between his performance and strip clubs.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 93.67,
+      "text": "An analysis of James Harden's career, focusing on his strengths, weaknesses, and unexpected correlations between his performance and strip clubs.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 124.67,
+      "text": "An analysis of James Harden's career, focusing on his strengths, weaknesses, and unexpected correlations between his performance and strip clubs.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 156.0,
+      "text": "An analysis of James Harden's career, focusing on his strengths, weaknesses, and unexpected correlations between his performance and strip clubs.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 187.33,
+      "text": "An analysis of James Harden's career, focusing on his strengths, weaknesses, and unexpected correlations between his performance and strip clubs.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 218.67,
+      "text": "An analysis of James Harden's career, focusing on his strengths, weaknesses, and unexpected correlations between his performance and strip clubs.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 657,
+    "fps": 3.0,
+    "duration_seconds": 219.0,
+    "duration_minutes": 3.65
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

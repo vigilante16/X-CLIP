@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_3.mp4",
+  "video_filename": "sample_3.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    58.0,
+    116.0,
+    174.0,
+    232.0,
+    290.0,
+    348.0,
+    406.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "Here's a detailed analysis of a cricket highlight video featuring various scenes, characters, and thematic elements showcasing the match dynamics.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 58.0,
+      "text": "Here's a detailed analysis of a cricket highlight video featuring various scenes, characters, and thematic elements showcasing the match dynamics.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 116.0,
+      "text": "Here's a detailed analysis of a cricket highlight video featuring various scenes, characters, and thematic elements showcasing the match dynamics.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 174.0,
+      "text": "Here's a detailed analysis of a cricket highlight video featuring various scenes, characters, and thematic elements showcasing the match dynamics.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 232.0,
+      "text": "Here's a detailed analysis of a cricket highlight video featuring various scenes, characters, and thematic elements showcasing the match dynamics.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 290.0,
+      "text": "Here's a detailed analysis of a cricket highlight video featuring various scenes, characters, and thematic elements showcasing the match dynamics.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 348.0,
+      "text": "Here's a detailed analysis of a cricket highlight video featuring various scenes, characters, and thematic elements showcasing the match dynamics.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 406.0,
+      "text": "Here's a detailed analysis of a cricket highlight video featuring various scenes, characters, and thematic elements showcasing the match dynamics.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1219,
+    "fps": 3.0,
+    "duration_seconds": 406.33,
+    "duration_minutes": 6.77
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

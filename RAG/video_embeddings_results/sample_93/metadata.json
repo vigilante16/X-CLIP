@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_93.mp4",
+  "video_filename": "sample_93.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    2.67,
+    5.67,
+    8.67,
+    11.33,
+    14.33,
+    17.33,
+    20.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A replay video of a racing incident involving multiple cars on a racetrack, narrated by a commentator.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 2.67,
+      "text": "A replay video of a racing incident involving multiple cars on a racetrack, narrated by a commentator.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 5.67,
+      "text": "A replay video of a racing incident involving multiple cars on a racetrack, narrated by a commentator.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 8.67,
+      "text": "A replay video of a racing incident involving multiple cars on a racetrack, narrated by a commentator.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 11.33,
+      "text": "A replay video of a racing incident involving multiple cars on a racetrack, narrated by a commentator.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 14.33,
+      "text": "A replay video of a racing incident involving multiple cars on a racetrack, narrated by a commentator.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 17.33,
+      "text": "A replay video of a racing incident involving multiple cars on a racetrack, narrated by a commentator.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 20.33,
+      "text": "A replay video of a racing incident involving multiple cars on a racetrack, narrated by a commentator.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 62,
+    "fps": 3.0,
+    "duration_seconds": 20.67,
+    "duration_minutes": 0.34
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

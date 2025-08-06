@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_94.mp4",
+  "video_filename": "sample_94.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    77.33,
+    154.67,
+    232.0,
+    309.67,
+    387.0,
+    464.33,
+    542.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A detailed video analysis of the development and influence of CPM and Gary Kildall's role in the microcomputer industry.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 77.33,
+      "text": "A detailed video analysis of the development and influence of CPM and Gary Kildall's role in the microcomputer industry.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 154.67,
+      "text": "A detailed video analysis of the development and influence of CPM and Gary Kildall's role in the microcomputer industry.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 232.0,
+      "text": "A detailed video analysis of the development and influence of CPM and Gary Kildall's role in the microcomputer industry.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 309.67,
+      "text": "A detailed video analysis of the development and influence of CPM and Gary Kildall's role in the microcomputer industry.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 387.0,
+      "text": "A detailed video analysis of the development and influence of CPM and Gary Kildall's role in the microcomputer industry.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 464.33,
+      "text": "A detailed video analysis of the development and influence of CPM and Gary Kildall's role in the microcomputer industry.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 542.0,
+      "text": "A detailed video analysis of the development and influence of CPM and Gary Kildall's role in the microcomputer industry.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1627,
+    "fps": 3.0,
+    "duration_seconds": 542.33,
+    "duration_minutes": 9.04
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_26.mp4",
+  "video_filename": "sample_26.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    5.67,
+    11.33,
+    17.0,
+    23.0,
+    28.67,
+    34.33,
+    40.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "Analysis of the final race in a swimming championship focusing on athletes' performances and key moments.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 5.67,
+      "text": "Analysis of the final race in a swimming championship focusing on athletes' performances and key moments.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 11.33,
+      "text": "Analysis of the final race in a swimming championship focusing on athletes' performances and key moments.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 17.0,
+      "text": "Analysis of the final race in a swimming championship focusing on athletes' performances and key moments.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 23.0,
+      "text": "Analysis of the final race in a swimming championship focusing on athletes' performances and key moments.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 28.67,
+      "text": "Analysis of the final race in a swimming championship focusing on athletes' performances and key moments.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 34.33,
+      "text": "Analysis of the final race in a swimming championship focusing on athletes' performances and key moments.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 40.33,
+      "text": "Analysis of the final race in a swimming championship focusing on athletes' performances and key moments.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 122,
+    "fps": 3.0,
+    "duration_seconds": 40.67,
+    "duration_minutes": 0.68
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

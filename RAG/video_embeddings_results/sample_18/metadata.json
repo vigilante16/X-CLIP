@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_18.mp4",
+  "video_filename": "sample_18.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    75.67,
+    151.33,
+    227.0,
+    303.0,
+    378.67,
+    454.33,
+    530.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An analytical look at the implications of the Chris Paul trade to the Warriors.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 75.67,
+      "text": "An analytical look at the implications of the Chris Paul trade to the Warriors.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 151.33,
+      "text": "An analytical look at the implications of the Chris Paul trade to the Warriors.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 227.0,
+      "text": "An analytical look at the implications of the Chris Paul trade to the Warriors.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 303.0,
+      "text": "An analytical look at the implications of the Chris Paul trade to the Warriors.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 378.67,
+      "text": "An analytical look at the implications of the Chris Paul trade to the Warriors.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 454.33,
+      "text": "An analytical look at the implications of the Chris Paul trade to the Warriors.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 530.33,
+      "text": "An analytical look at the implications of the Chris Paul trade to the Warriors.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1592,
+    "fps": 3.0,
+    "duration_seconds": 530.67,
+    "duration_minutes": 8.84
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

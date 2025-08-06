@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_29.mp4",
+  "video_filename": "sample_29.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    23.33,
+    47.0,
+    70.67,
+    94.0,
+    117.67,
+    141.33,
+    165.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A video analysis of Brazil's match against Cote d'Ivoire during the FIFA World Cup 2010, showcasing key moments, character interactions, and the mood throughout the game.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 23.33,
+      "text": "A video analysis of Brazil's match against Cote d'Ivoire during the FIFA World Cup 2010, showcasing key moments, character interactions, and the mood throughout the game.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 47.0,
+      "text": "A video analysis of Brazil's match against Cote d'Ivoire during the FIFA World Cup 2010, showcasing key moments, character interactions, and the mood throughout the game.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 70.67,
+      "text": "A video analysis of Brazil's match against Cote d'Ivoire during the FIFA World Cup 2010, showcasing key moments, character interactions, and the mood throughout the game.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 94.0,
+      "text": "A video analysis of Brazil's match against Cote d'Ivoire during the FIFA World Cup 2010, showcasing key moments, character interactions, and the mood throughout the game.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 117.67,
+      "text": "A video analysis of Brazil's match against Cote d'Ivoire during the FIFA World Cup 2010, showcasing key moments, character interactions, and the mood throughout the game.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 141.33,
+      "text": "A video analysis of Brazil's match against Cote d'Ivoire during the FIFA World Cup 2010, showcasing key moments, character interactions, and the mood throughout the game.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 165.0,
+      "text": "A video analysis of Brazil's match against Cote d'Ivoire during the FIFA World Cup 2010, showcasing key moments, character interactions, and the mood throughout the game.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 496,
+    "fps": 3.0,
+    "duration_seconds": 165.33,
+    "duration_minutes": 2.76
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

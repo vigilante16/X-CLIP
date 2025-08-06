@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_80.mp4",
+  "video_filename": "sample_80.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    5.67,
+    11.67,
+    17.67,
+    23.33,
+    29.33,
+    35.33,
+    41.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "This video provides a detailed breakdown of a specific football play, focusing on the dynamics between key players and the technical intricacies of their movements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 5.67,
+      "text": "This video provides a detailed breakdown of a specific football play, focusing on the dynamics between key players and the technical intricacies of their movements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 11.67,
+      "text": "This video provides a detailed breakdown of a specific football play, focusing on the dynamics between key players and the technical intricacies of their movements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 17.67,
+      "text": "This video provides a detailed breakdown of a specific football play, focusing on the dynamics between key players and the technical intricacies of their movements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 23.33,
+      "text": "This video provides a detailed breakdown of a specific football play, focusing on the dynamics between key players and the technical intricacies of their movements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 29.33,
+      "text": "This video provides a detailed breakdown of a specific football play, focusing on the dynamics between key players and the technical intricacies of their movements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 35.33,
+      "text": "This video provides a detailed breakdown of a specific football play, focusing on the dynamics between key players and the technical intricacies of their movements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 41.33,
+      "text": "This video provides a detailed breakdown of a specific football play, focusing on the dynamics between key players and the technical intricacies of their movements.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 125,
+    "fps": 3.0,
+    "duration_seconds": 41.67,
+    "duration_minutes": 0.69
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

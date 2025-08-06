@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_34.mp4",
+  "video_filename": "sample_34.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    90.33,
+    180.67,
+    271.0,
+    361.33,
+    451.67,
+    542.0,
+    632.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "Streamers worldwide gather to celebrate the launch of the new Path of Exile league, but technical difficulties lead to frustration and chaos.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 90.33,
+      "text": "Streamers worldwide gather to celebrate the launch of the new Path of Exile league, but technical difficulties lead to frustration and chaos.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 180.67,
+      "text": "Streamers worldwide gather to celebrate the launch of the new Path of Exile league, but technical difficulties lead to frustration and chaos.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 271.0,
+      "text": "Streamers worldwide gather to celebrate the launch of the new Path of Exile league, but technical difficulties lead to frustration and chaos.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 361.33,
+      "text": "Streamers worldwide gather to celebrate the launch of the new Path of Exile league, but technical difficulties lead to frustration and chaos.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 451.67,
+      "text": "Streamers worldwide gather to celebrate the launch of the new Path of Exile league, but technical difficulties lead to frustration and chaos.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 542.0,
+      "text": "Streamers worldwide gather to celebrate the launch of the new Path of Exile league, but technical difficulties lead to frustration and chaos.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 632.33,
+      "text": "Streamers worldwide gather to celebrate the launch of the new Path of Exile league, but technical difficulties lead to frustration and chaos.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1898,
+    "fps": 3.0,
+    "duration_seconds": 632.67,
+    "duration_minutes": 10.54
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_96.mp4",
+  "video_filename": "sample_96.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    29.0,
+    58.33,
+    87.67,
+    117.0,
+    146.33,
+    175.67,
+    205.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A highlight reel and post-game interview focusing on Georgetown's performance against St. John's, emphasizing Matt McLung's impact.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 29.0,
+      "text": "A highlight reel and post-game interview focusing on Georgetown's performance against St. John's, emphasizing Matt McLung's impact.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 58.33,
+      "text": "A highlight reel and post-game interview focusing on Georgetown's performance against St. John's, emphasizing Matt McLung's impact.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 87.67,
+      "text": "A highlight reel and post-game interview focusing on Georgetown's performance against St. John's, emphasizing Matt McLung's impact.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 117.0,
+      "text": "A highlight reel and post-game interview focusing on Georgetown's performance against St. John's, emphasizing Matt McLung's impact.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 146.33,
+      "text": "A highlight reel and post-game interview focusing on Georgetown's performance against St. John's, emphasizing Matt McLung's impact.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 175.67,
+      "text": "A highlight reel and post-game interview focusing on Georgetown's performance against St. John's, emphasizing Matt McLung's impact.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 205.0,
+      "text": "A highlight reel and post-game interview focusing on Georgetown's performance against St. John's, emphasizing Matt McLung's impact.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 616,
+    "fps": 3.0,
+    "duration_seconds": 205.33,
+    "duration_minutes": 3.42
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

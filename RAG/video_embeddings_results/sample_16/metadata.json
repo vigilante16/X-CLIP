@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_16.mp4",
+  "video_filename": "sample_16.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    4.33,
+    8.67,
+    13.0,
+    17.33,
+    21.67,
+    26.0,
+    30.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A video exploring Omarion's reflections on fatherhood and his family dynamic.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 4.33,
+      "text": "A video exploring Omarion's reflections on fatherhood and his family dynamic.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 8.67,
+      "text": "A video exploring Omarion's reflections on fatherhood and his family dynamic.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 13.0,
+      "text": "A video exploring Omarion's reflections on fatherhood and his family dynamic.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 17.33,
+      "text": "A video exploring Omarion's reflections on fatherhood and his family dynamic.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 21.67,
+      "text": "A video exploring Omarion's reflections on fatherhood and his family dynamic.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 26.0,
+      "text": "A video exploring Omarion's reflections on fatherhood and his family dynamic.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 30.67,
+      "text": "A video exploring Omarion's reflections on fatherhood and his family dynamic.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 93,
+    "fps": 3.0,
+    "duration_seconds": 31.0,
+    "duration_minutes": 0.52
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

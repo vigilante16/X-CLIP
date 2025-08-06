@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_45.mp4",
+  "video_filename": "sample_45.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    71.33,
+    143.0,
+    214.33,
+    286.0,
+    357.33,
+    429.0,
+    500.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "This video features Voch Lombardi as he analyzes Amari Cooper's performance, focusing on dropped passes, and promotes his Patreon page.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 71.33,
+      "text": "This video features Voch Lombardi as he analyzes Amari Cooper's performance, focusing on dropped passes, and promotes his Patreon page.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 143.0,
+      "text": "This video features Voch Lombardi as he analyzes Amari Cooper's performance, focusing on dropped passes, and promotes his Patreon page.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 214.33,
+      "text": "This video features Voch Lombardi as he analyzes Amari Cooper's performance, focusing on dropped passes, and promotes his Patreon page.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 286.0,
+      "text": "This video features Voch Lombardi as he analyzes Amari Cooper's performance, focusing on dropped passes, and promotes his Patreon page.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 357.33,
+      "text": "This video features Voch Lombardi as he analyzes Amari Cooper's performance, focusing on dropped passes, and promotes his Patreon page.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 429.0,
+      "text": "This video features Voch Lombardi as he analyzes Amari Cooper's performance, focusing on dropped passes, and promotes his Patreon page.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 500.67,
+      "text": "This video features Voch Lombardi as he analyzes Amari Cooper's performance, focusing on dropped passes, and promotes his Patreon page.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1503,
+    "fps": 3.0,
+    "duration_seconds": 501.0,
+    "duration_minutes": 8.35
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

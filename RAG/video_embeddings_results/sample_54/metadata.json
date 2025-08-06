@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_54.mp4",
+  "video_filename": "sample_54.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    72.33,
+    145.0,
+    217.67,
+    290.0,
+    362.67,
+    435.33,
+    508.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "Join Flats and his friends in this fun, humorous gaming adventure as they navigate through chats and gameplay moments in Overwatch and Among Us.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 72.33,
+      "text": "Join Flats and his friends in this fun, humorous gaming adventure as they navigate through chats and gameplay moments in Overwatch and Among Us.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 145.0,
+      "text": "Join Flats and his friends in this fun, humorous gaming adventure as they navigate through chats and gameplay moments in Overwatch and Among Us.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 217.67,
+      "text": "Join Flats and his friends in this fun, humorous gaming adventure as they navigate through chats and gameplay moments in Overwatch and Among Us.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 290.0,
+      "text": "Join Flats and his friends in this fun, humorous gaming adventure as they navigate through chats and gameplay moments in Overwatch and Among Us.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 362.67,
+      "text": "Join Flats and his friends in this fun, humorous gaming adventure as they navigate through chats and gameplay moments in Overwatch and Among Us.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 435.33,
+      "text": "Join Flats and his friends in this fun, humorous gaming adventure as they navigate through chats and gameplay moments in Overwatch and Among Us.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 508.0,
+      "text": "Join Flats and his friends in this fun, humorous gaming adventure as they navigate through chats and gameplay moments in Overwatch and Among Us.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1525,
+    "fps": 3.0,
+    "duration_seconds": 508.33,
+    "duration_minutes": 8.47
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

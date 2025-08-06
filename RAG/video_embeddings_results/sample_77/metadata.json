@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_77.mp4",
+  "video_filename": "sample_77.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    43.67,
+    87.67,
+    131.67,
+    175.67,
+    219.67,
+    263.67,
+    307.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An observational video documenting a competitive rifle shooting match, showcasing the skills, procedures, and atmosphere of the event at the Gopher Rifle and Revolver Club.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 43.67,
+      "text": "An observational video documenting a competitive rifle shooting match, showcasing the skills, procedures, and atmosphere of the event at the Gopher Rifle and Revolver Club.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 87.67,
+      "text": "An observational video documenting a competitive rifle shooting match, showcasing the skills, procedures, and atmosphere of the event at the Gopher Rifle and Revolver Club.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 131.67,
+      "text": "An observational video documenting a competitive rifle shooting match, showcasing the skills, procedures, and atmosphere of the event at the Gopher Rifle and Revolver Club.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 175.67,
+      "text": "An observational video documenting a competitive rifle shooting match, showcasing the skills, procedures, and atmosphere of the event at the Gopher Rifle and Revolver Club.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 219.67,
+      "text": "An observational video documenting a competitive rifle shooting match, showcasing the skills, procedures, and atmosphere of the event at the Gopher Rifle and Revolver Club.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 263.67,
+      "text": "An observational video documenting a competitive rifle shooting match, showcasing the skills, procedures, and atmosphere of the event at the Gopher Rifle and Revolver Club.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 307.67,
+      "text": "An observational video documenting a competitive rifle shooting match, showcasing the skills, procedures, and atmosphere of the event at the Gopher Rifle and Revolver Club.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 924,
+    "fps": 3.0,
+    "duration_seconds": 308.0,
+    "duration_minutes": 5.13
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_78.mp4",
+  "video_filename": "sample_78.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    54.0,
+    108.33,
+    162.67,
+    217.0,
+    271.33,
+    325.67,
+    380.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "The video provides a practical tutorial on volleyball passing techniques, covering hand positions, platform shape, shoulder engagement, stance, and squat depth. It includes demonstrations and drills for improving skills and emphasizes the importance of practice and communication.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 54.0,
+      "text": "The video provides a practical tutorial on volleyball passing techniques, covering hand positions, platform shape, shoulder engagement, stance, and squat depth. It includes demonstrations and drills for improving skills and emphasizes the importance of practice and communication.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 108.33,
+      "text": "The video provides a practical tutorial on volleyball passing techniques, covering hand positions, platform shape, shoulder engagement, stance, and squat depth. It includes demonstrations and drills for improving skills and emphasizes the importance of practice and communication.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 162.67,
+      "text": "The video provides a practical tutorial on volleyball passing techniques, covering hand positions, platform shape, shoulder engagement, stance, and squat depth. It includes demonstrations and drills for improving skills and emphasizes the importance of practice and communication.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 217.0,
+      "text": "The video provides a practical tutorial on volleyball passing techniques, covering hand positions, platform shape, shoulder engagement, stance, and squat depth. It includes demonstrations and drills for improving skills and emphasizes the importance of practice and communication.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 271.33,
+      "text": "The video provides a practical tutorial on volleyball passing techniques, covering hand positions, platform shape, shoulder engagement, stance, and squat depth. It includes demonstrations and drills for improving skills and emphasizes the importance of practice and communication.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 325.67,
+      "text": "The video provides a practical tutorial on volleyball passing techniques, covering hand positions, platform shape, shoulder engagement, stance, and squat depth. It includes demonstrations and drills for improving skills and emphasizes the importance of practice and communication.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 380.0,
+      "text": "The video provides a practical tutorial on volleyball passing techniques, covering hand positions, platform shape, shoulder engagement, stance, and squat depth. It includes demonstrations and drills for improving skills and emphasizes the importance of practice and communication.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1141,
+    "fps": 3.0,
+    "duration_seconds": 380.33,
+    "duration_minutes": 6.34
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

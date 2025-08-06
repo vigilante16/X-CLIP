@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_100.mp4",
+  "video_filename": "sample_100.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    6.67,
+    13.33,
+    20.0,
+    26.67,
+    33.33,
+    40.0,
+    47.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An insightful look into the life of professional runner Grayson Murphy and her approach to balancing rigorous training, proper recovery, and sleep fitness.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 6.67,
+      "text": "An insightful look into the life of professional runner Grayson Murphy and her approach to balancing rigorous training, proper recovery, and sleep fitness.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 13.33,
+      "text": "An insightful look into the life of professional runner Grayson Murphy and her approach to balancing rigorous training, proper recovery, and sleep fitness.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 20.0,
+      "text": "An insightful look into the life of professional runner Grayson Murphy and her approach to balancing rigorous training, proper recovery, and sleep fitness.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 26.67,
+      "text": "An insightful look into the life of professional runner Grayson Murphy and her approach to balancing rigorous training, proper recovery, and sleep fitness.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 33.33,
+      "text": "An insightful look into the life of professional runner Grayson Murphy and her approach to balancing rigorous training, proper recovery, and sleep fitness.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 40.0,
+      "text": "An insightful look into the life of professional runner Grayson Murphy and her approach to balancing rigorous training, proper recovery, and sleep fitness.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 47.0,
+      "text": "An insightful look into the life of professional runner Grayson Murphy and her approach to balancing rigorous training, proper recovery, and sleep fitness.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 142,
+    "fps": 3.0,
+    "duration_seconds": 47.33,
+    "duration_minutes": 0.79
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

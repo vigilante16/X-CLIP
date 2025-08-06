@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_61.mp4",
+  "video_filename": "sample_61.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    36.33,
+    72.67,
+    109.0,
+    145.33,
+    181.67,
+    218.0,
+    254.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "Analysis of a boxing match involving two young fighters, Morgan and Angelo, with scene breakdowns, character interactions, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 36.33,
+      "text": "Analysis of a boxing match involving two young fighters, Morgan and Angelo, with scene breakdowns, character interactions, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 72.67,
+      "text": "Analysis of a boxing match involving two young fighters, Morgan and Angelo, with scene breakdowns, character interactions, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 109.0,
+      "text": "Analysis of a boxing match involving two young fighters, Morgan and Angelo, with scene breakdowns, character interactions, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 145.33,
+      "text": "Analysis of a boxing match involving two young fighters, Morgan and Angelo, with scene breakdowns, character interactions, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 181.67,
+      "text": "Analysis of a boxing match involving two young fighters, Morgan and Angelo, with scene breakdowns, character interactions, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 218.0,
+      "text": "Analysis of a boxing match involving two young fighters, Morgan and Angelo, with scene breakdowns, character interactions, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 254.67,
+      "text": "Analysis of a boxing match involving two young fighters, Morgan and Angelo, with scene breakdowns, character interactions, and thematic elements.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 765,
+    "fps": 3.0,
+    "duration_seconds": 255.0,
+    "duration_minutes": 4.25
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

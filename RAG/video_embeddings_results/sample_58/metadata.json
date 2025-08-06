@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_58.mp4",
+  "video_filename": "sample_58.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    25.67,
+    51.67,
+    77.33,
+    103.33,
+    129.0,
+    155.0,
+    181.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A scene-by-scene breakdown of a post-game interview with a baseball player, analyzing the characters, activities, mood, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 25.67,
+      "text": "A scene-by-scene breakdown of a post-game interview with a baseball player, analyzing the characters, activities, mood, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 51.67,
+      "text": "A scene-by-scene breakdown of a post-game interview with a baseball player, analyzing the characters, activities, mood, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 77.33,
+      "text": "A scene-by-scene breakdown of a post-game interview with a baseball player, analyzing the characters, activities, mood, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 103.33,
+      "text": "A scene-by-scene breakdown of a post-game interview with a baseball player, analyzing the characters, activities, mood, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 129.0,
+      "text": "A scene-by-scene breakdown of a post-game interview with a baseball player, analyzing the characters, activities, mood, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 155.0,
+      "text": "A scene-by-scene breakdown of a post-game interview with a baseball player, analyzing the characters, activities, mood, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 181.0,
+      "text": "A scene-by-scene breakdown of a post-game interview with a baseball player, analyzing the characters, activities, mood, and thematic elements.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 544,
+    "fps": 3.0,
+    "duration_seconds": 181.33,
+    "duration_minutes": 3.02
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

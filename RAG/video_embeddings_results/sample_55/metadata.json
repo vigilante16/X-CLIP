@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_55.mp4",
+  "video_filename": "sample_55.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    11.67,
+    23.33,
+    35.0,
+    47.0,
+    58.67,
+    70.33,
+    82.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A compelling video clip from Soccer Aid showcasing the return of Eric Cantona, emphasizing surprise, nostalgia, and hero worship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 11.67,
+      "text": "A compelling video clip from Soccer Aid showcasing the return of Eric Cantona, emphasizing surprise, nostalgia, and hero worship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 23.33,
+      "text": "A compelling video clip from Soccer Aid showcasing the return of Eric Cantona, emphasizing surprise, nostalgia, and hero worship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 35.0,
+      "text": "A compelling video clip from Soccer Aid showcasing the return of Eric Cantona, emphasizing surprise, nostalgia, and hero worship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 47.0,
+      "text": "A compelling video clip from Soccer Aid showcasing the return of Eric Cantona, emphasizing surprise, nostalgia, and hero worship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 58.67,
+      "text": "A compelling video clip from Soccer Aid showcasing the return of Eric Cantona, emphasizing surprise, nostalgia, and hero worship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 70.33,
+      "text": "A compelling video clip from Soccer Aid showcasing the return of Eric Cantona, emphasizing surprise, nostalgia, and hero worship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 82.33,
+      "text": "A compelling video clip from Soccer Aid showcasing the return of Eric Cantona, emphasizing surprise, nostalgia, and hero worship.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 248,
+    "fps": 3.0,
+    "duration_seconds": 82.67,
+    "duration_minutes": 1.38
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

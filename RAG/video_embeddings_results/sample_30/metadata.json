@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_30.mp4",
+  "video_filename": "sample_30.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    13.33,
+    27.0,
+    40.67,
+    54.0,
+    67.67,
+    81.33,
+    95.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "This video is a tutorial about a side control sweep technique used in martial arts. It features a demonstration of the technique, followed by a brief explanation and a call to action.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 13.33,
+      "text": "This video is a tutorial about a side control sweep technique used in martial arts. It features a demonstration of the technique, followed by a brief explanation and a call to action.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 27.0,
+      "text": "This video is a tutorial about a side control sweep technique used in martial arts. It features a demonstration of the technique, followed by a brief explanation and a call to action.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 40.67,
+      "text": "This video is a tutorial about a side control sweep technique used in martial arts. It features a demonstration of the technique, followed by a brief explanation and a call to action.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 54.0,
+      "text": "This video is a tutorial about a side control sweep technique used in martial arts. It features a demonstration of the technique, followed by a brief explanation and a call to action.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 67.67,
+      "text": "This video is a tutorial about a side control sweep technique used in martial arts. It features a demonstration of the technique, followed by a brief explanation and a call to action.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 81.33,
+      "text": "This video is a tutorial about a side control sweep technique used in martial arts. It features a demonstration of the technique, followed by a brief explanation and a call to action.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 95.0,
+      "text": "This video is a tutorial about a side control sweep technique used in martial arts. It features a demonstration of the technique, followed by a brief explanation and a call to action.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 286,
+    "fps": 3.0,
+    "duration_seconds": 95.33,
+    "duration_minutes": 1.59
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

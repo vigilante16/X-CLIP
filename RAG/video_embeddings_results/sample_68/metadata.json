@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_68.mp4",
+  "video_filename": "sample_68.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    93.33,
+    187.0,
+    280.33,
+    374.0,
+    467.33,
+    561.0,
+    654.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A video analyzing a phone conversation about a job opportunity at Fraley and Schilling, Inc., focusing on truck driving positions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 93.33,
+      "text": "A video analyzing a phone conversation about a job opportunity at Fraley and Schilling, Inc., focusing on truck driving positions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 187.0,
+      "text": "A video analyzing a phone conversation about a job opportunity at Fraley and Schilling, Inc., focusing on truck driving positions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 280.33,
+      "text": "A video analyzing a phone conversation about a job opportunity at Fraley and Schilling, Inc., focusing on truck driving positions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 374.0,
+      "text": "A video analyzing a phone conversation about a job opportunity at Fraley and Schilling, Inc., focusing on truck driving positions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 467.33,
+      "text": "A video analyzing a phone conversation about a job opportunity at Fraley and Schilling, Inc., focusing on truck driving positions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 561.0,
+      "text": "A video analyzing a phone conversation about a job opportunity at Fraley and Schilling, Inc., focusing on truck driving positions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 654.67,
+      "text": "A video analyzing a phone conversation about a job opportunity at Fraley and Schilling, Inc., focusing on truck driving positions.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1965,
+    "fps": 3.0,
+    "duration_seconds": 655.0,
+    "duration_minutes": 10.92
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

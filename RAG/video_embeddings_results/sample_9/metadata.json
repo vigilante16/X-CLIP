@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_9.mp4",
+  "video_filename": "sample_9.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    28.33,
+    57.0,
+    85.67,
+    114.33,
+    143.0,
+    171.67,
+    200.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An intense MMA fight between two undefeated fighters, Terry Robinson and Trey Ross, culminating in an exciting victory.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 28.33,
+      "text": "An intense MMA fight between two undefeated fighters, Terry Robinson and Trey Ross, culminating in an exciting victory.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 57.0,
+      "text": "An intense MMA fight between two undefeated fighters, Terry Robinson and Trey Ross, culminating in an exciting victory.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 85.67,
+      "text": "An intense MMA fight between two undefeated fighters, Terry Robinson and Trey Ross, culminating in an exciting victory.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 114.33,
+      "text": "An intense MMA fight between two undefeated fighters, Terry Robinson and Trey Ross, culminating in an exciting victory.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 143.0,
+      "text": "An intense MMA fight between two undefeated fighters, Terry Robinson and Trey Ross, culminating in an exciting victory.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 171.67,
+      "text": "An intense MMA fight between two undefeated fighters, Terry Robinson and Trey Ross, culminating in an exciting victory.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 200.33,
+      "text": "An intense MMA fight between two undefeated fighters, Terry Robinson and Trey Ross, culminating in an exciting victory.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 602,
+    "fps": 3.0,
+    "duration_seconds": 200.67,
+    "duration_minutes": 3.34
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_25.mp4",
+  "video_filename": "sample_25.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    3.67,
+    7.67,
+    11.67,
+    15.67,
+    19.67,
+    23.67,
+    27.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A video exploring the conspiracy theories surrounding the death of legendary martial artist and actor Bruce Lee.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 3.67,
+      "text": "A video exploring the conspiracy theories surrounding the death of legendary martial artist and actor Bruce Lee.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 7.67,
+      "text": "A video exploring the conspiracy theories surrounding the death of legendary martial artist and actor Bruce Lee.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 11.67,
+      "text": "A video exploring the conspiracy theories surrounding the death of legendary martial artist and actor Bruce Lee.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 15.67,
+      "text": "A video exploring the conspiracy theories surrounding the death of legendary martial artist and actor Bruce Lee.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 19.67,
+      "text": "A video exploring the conspiracy theories surrounding the death of legendary martial artist and actor Bruce Lee.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 23.67,
+      "text": "A video exploring the conspiracy theories surrounding the death of legendary martial artist and actor Bruce Lee.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 27.67,
+      "text": "A video exploring the conspiracy theories surrounding the death of legendary martial artist and actor Bruce Lee.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 84,
+    "fps": 3.0,
+    "duration_seconds": 28.0,
+    "duration_minutes": 0.47
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

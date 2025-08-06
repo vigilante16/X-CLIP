@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_65.mp4",
+  "video_filename": "sample_65.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    85.67,
+    171.33,
+    257.0,
+    343.0,
+    428.67,
+    514.33,
+    600.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "In this video, Joe and Tom take on an Alex Honnold \"simulation\" boulder problem, showcasing their climbing skills, friendship, and admiration for Alex Honnold. They introduce the problem, attempt challenging climbs, and share their excitement and passion for climbing.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 85.67,
+      "text": "In this video, Joe and Tom take on an Alex Honnold \"simulation\" boulder problem, showcasing their climbing skills, friendship, and admiration for Alex Honnold. They introduce the problem, attempt challenging climbs, and share their excitement and passion for climbing.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 171.33,
+      "text": "In this video, Joe and Tom take on an Alex Honnold \"simulation\" boulder problem, showcasing their climbing skills, friendship, and admiration for Alex Honnold. They introduce the problem, attempt challenging climbs, and share their excitement and passion for climbing.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 257.0,
+      "text": "In this video, Joe and Tom take on an Alex Honnold \"simulation\" boulder problem, showcasing their climbing skills, friendship, and admiration for Alex Honnold. They introduce the problem, attempt challenging climbs, and share their excitement and passion for climbing.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 343.0,
+      "text": "In this video, Joe and Tom take on an Alex Honnold \"simulation\" boulder problem, showcasing their climbing skills, friendship, and admiration for Alex Honnold. They introduce the problem, attempt challenging climbs, and share their excitement and passion for climbing.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 428.67,
+      "text": "In this video, Joe and Tom take on an Alex Honnold \"simulation\" boulder problem, showcasing their climbing skills, friendship, and admiration for Alex Honnold. They introduce the problem, attempt challenging climbs, and share their excitement and passion for climbing.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 514.33,
+      "text": "In this video, Joe and Tom take on an Alex Honnold \"simulation\" boulder problem, showcasing their climbing skills, friendship, and admiration for Alex Honnold. They introduce the problem, attempt challenging climbs, and share their excitement and passion for climbing.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 600.33,
+      "text": "In this video, Joe and Tom take on an Alex Honnold \"simulation\" boulder problem, showcasing their climbing skills, friendship, and admiration for Alex Honnold. They introduce the problem, attempt challenging climbs, and share their excitement and passion for climbing.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1802,
+    "fps": 3.0,
+    "duration_seconds": 600.67,
+    "duration_minutes": 10.01
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

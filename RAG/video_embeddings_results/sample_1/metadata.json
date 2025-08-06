@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_1.mp4",
+  "video_filename": "sample_1.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    35.67,
+    71.67,
+    107.33,
+    143.33,
+    179.0,
+    215.0,
+    251.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An insightful video featuring personal anecdotes and experiences with Interserve, showcasing the impact of Kerry Mills as a trainer assessor and the growth opportunities within the organization.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 35.67,
+      "text": "An insightful video featuring personal anecdotes and experiences with Interserve, showcasing the impact of Kerry Mills as a trainer assessor and the growth opportunities within the organization.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 71.67,
+      "text": "An insightful video featuring personal anecdotes and experiences with Interserve, showcasing the impact of Kerry Mills as a trainer assessor and the growth opportunities within the organization.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 107.33,
+      "text": "An insightful video featuring personal anecdotes and experiences with Interserve, showcasing the impact of Kerry Mills as a trainer assessor and the growth opportunities within the organization.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 143.33,
+      "text": "An insightful video featuring personal anecdotes and experiences with Interserve, showcasing the impact of Kerry Mills as a trainer assessor and the growth opportunities within the organization.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 179.0,
+      "text": "An insightful video featuring personal anecdotes and experiences with Interserve, showcasing the impact of Kerry Mills as a trainer assessor and the growth opportunities within the organization.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 215.0,
+      "text": "An insightful video featuring personal anecdotes and experiences with Interserve, showcasing the impact of Kerry Mills as a trainer assessor and the growth opportunities within the organization.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 251.0,
+      "text": "An insightful video featuring personal anecdotes and experiences with Interserve, showcasing the impact of Kerry Mills as a trainer assessor and the growth opportunities within the organization.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 754,
+    "fps": 3.0,
+    "duration_seconds": 251.33,
+    "duration_minutes": 4.19
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

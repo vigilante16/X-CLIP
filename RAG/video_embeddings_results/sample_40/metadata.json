@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_40.mp4",
+  "video_filename": "sample_40.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    45.0,
+    90.0,
+    135.0,
+    180.0,
+    225.0,
+    270.0,
+    315.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "This video showcases a tiebreaker match between Red and Blue alliances in the FIRST Robotics Competition, featuring intense robot gameplay, strategic maneuvers, and a celebratory conclusion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 45.0,
+      "text": "This video showcases a tiebreaker match between Red and Blue alliances in the FIRST Robotics Competition, featuring intense robot gameplay, strategic maneuvers, and a celebratory conclusion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 90.0,
+      "text": "This video showcases a tiebreaker match between Red and Blue alliances in the FIRST Robotics Competition, featuring intense robot gameplay, strategic maneuvers, and a celebratory conclusion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 135.0,
+      "text": "This video showcases a tiebreaker match between Red and Blue alliances in the FIRST Robotics Competition, featuring intense robot gameplay, strategic maneuvers, and a celebratory conclusion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 180.0,
+      "text": "This video showcases a tiebreaker match between Red and Blue alliances in the FIRST Robotics Competition, featuring intense robot gameplay, strategic maneuvers, and a celebratory conclusion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 225.0,
+      "text": "This video showcases a tiebreaker match between Red and Blue alliances in the FIRST Robotics Competition, featuring intense robot gameplay, strategic maneuvers, and a celebratory conclusion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 270.0,
+      "text": "This video showcases a tiebreaker match between Red and Blue alliances in the FIRST Robotics Competition, featuring intense robot gameplay, strategic maneuvers, and a celebratory conclusion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 315.33,
+      "text": "This video showcases a tiebreaker match between Red and Blue alliances in the FIRST Robotics Competition, featuring intense robot gameplay, strategic maneuvers, and a celebratory conclusion.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 947,
+    "fps": 3.0,
+    "duration_seconds": 315.67,
+    "duration_minutes": 5.26
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

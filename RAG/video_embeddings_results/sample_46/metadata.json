@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_46.mp4",
+  "video_filename": "sample_46.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    73.67,
+    147.67,
+    221.33,
+    295.33,
+    369.0,
+    443.0,
+    517.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "The video features a senior iOS developer who has been laid off. He reflects on his career path and announces his new direction: helping other developers and companies through mentorship, career guidance, and development services.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 73.67,
+      "text": "The video features a senior iOS developer who has been laid off. He reflects on his career path and announces his new direction: helping other developers and companies through mentorship, career guidance, and development services.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 147.67,
+      "text": "The video features a senior iOS developer who has been laid off. He reflects on his career path and announces his new direction: helping other developers and companies through mentorship, career guidance, and development services.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 221.33,
+      "text": "The video features a senior iOS developer who has been laid off. He reflects on his career path and announces his new direction: helping other developers and companies through mentorship, career guidance, and development services.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 295.33,
+      "text": "The video features a senior iOS developer who has been laid off. He reflects on his career path and announces his new direction: helping other developers and companies through mentorship, career guidance, and development services.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 369.0,
+      "text": "The video features a senior iOS developer who has been laid off. He reflects on his career path and announces his new direction: helping other developers and companies through mentorship, career guidance, and development services.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 443.0,
+      "text": "The video features a senior iOS developer who has been laid off. He reflects on his career path and announces his new direction: helping other developers and companies through mentorship, career guidance, and development services.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 517.0,
+      "text": "The video features a senior iOS developer who has been laid off. He reflects on his career path and announces his new direction: helping other developers and companies through mentorship, career guidance, and development services.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1552,
+    "fps": 3.0,
+    "duration_seconds": 517.33,
+    "duration_minutes": 8.62
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

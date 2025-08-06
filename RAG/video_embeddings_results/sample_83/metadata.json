@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_83.mp4",
+  "video_filename": "sample_83.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    61.0,
+    122.0,
+    183.0,
+    244.33,
+    305.33,
+    366.33,
+    427.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A documentary-style video capturing the crew's participation and experiences in the Morgan Cup race, including their challenges, teamwork, and key moments throughout the race.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 61.0,
+      "text": "A documentary-style video capturing the crew's participation and experiences in the Morgan Cup race, including their challenges, teamwork, and key moments throughout the race.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 122.0,
+      "text": "A documentary-style video capturing the crew's participation and experiences in the Morgan Cup race, including their challenges, teamwork, and key moments throughout the race.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 183.0,
+      "text": "A documentary-style video capturing the crew's participation and experiences in the Morgan Cup race, including their challenges, teamwork, and key moments throughout the race.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 244.33,
+      "text": "A documentary-style video capturing the crew's participation and experiences in the Morgan Cup race, including their challenges, teamwork, and key moments throughout the race.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 305.33,
+      "text": "A documentary-style video capturing the crew's participation and experiences in the Morgan Cup race, including their challenges, teamwork, and key moments throughout the race.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 366.33,
+      "text": "A documentary-style video capturing the crew's participation and experiences in the Morgan Cup race, including their challenges, teamwork, and key moments throughout the race.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 427.67,
+      "text": "A documentary-style video capturing the crew's participation and experiences in the Morgan Cup race, including their challenges, teamwork, and key moments throughout the race.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1284,
+    "fps": 3.0,
+    "duration_seconds": 428.0,
+    "duration_minutes": 7.13
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

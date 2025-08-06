@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_32.mp4",
+  "video_filename": "sample_32.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    67.33,
+    135.0,
+    202.67,
+    270.33,
+    338.0,
+    405.67,
+    473.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A young man provides an emotional commentary of a football game simulation, experiencing a wide range of feelings as the game unfolds.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 67.33,
+      "text": "A young man provides an emotional commentary of a football game simulation, experiencing a wide range of feelings as the game unfolds.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 135.0,
+      "text": "A young man provides an emotional commentary of a football game simulation, experiencing a wide range of feelings as the game unfolds.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 202.67,
+      "text": "A young man provides an emotional commentary of a football game simulation, experiencing a wide range of feelings as the game unfolds.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 270.33,
+      "text": "A young man provides an emotional commentary of a football game simulation, experiencing a wide range of feelings as the game unfolds.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 338.0,
+      "text": "A young man provides an emotional commentary of a football game simulation, experiencing a wide range of feelings as the game unfolds.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 405.67,
+      "text": "A young man provides an emotional commentary of a football game simulation, experiencing a wide range of feelings as the game unfolds.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 473.33,
+      "text": "A young man provides an emotional commentary of a football game simulation, experiencing a wide range of feelings as the game unfolds.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1421,
+    "fps": 3.0,
+    "duration_seconds": 473.67,
+    "duration_minutes": 7.89
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

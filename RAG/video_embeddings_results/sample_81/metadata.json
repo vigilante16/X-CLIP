@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_81.mp4",
+  "video_filename": "sample_81.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    26.0,
+    52.0,
+    78.0,
+    104.33,
+    130.33,
+    156.33,
+    182.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "This video covers a wrestling instruction session led by a coach, focused on teaching the ankle duck technique to a group of students.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 26.0,
+      "text": "This video covers a wrestling instruction session led by a coach, focused on teaching the ankle duck technique to a group of students.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 52.0,
+      "text": "This video covers a wrestling instruction session led by a coach, focused on teaching the ankle duck technique to a group of students.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 78.0,
+      "text": "This video covers a wrestling instruction session led by a coach, focused on teaching the ankle duck technique to a group of students.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 104.33,
+      "text": "This video covers a wrestling instruction session led by a coach, focused on teaching the ankle duck technique to a group of students.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 130.33,
+      "text": "This video covers a wrestling instruction session led by a coach, focused on teaching the ankle duck technique to a group of students.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 156.33,
+      "text": "This video covers a wrestling instruction session led by a coach, focused on teaching the ankle duck technique to a group of students.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 182.67,
+      "text": "This video covers a wrestling instruction session led by a coach, focused on teaching the ankle duck technique to a group of students.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 549,
+    "fps": 3.0,
+    "duration_seconds": 183.0,
+    "duration_minutes": 3.05
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

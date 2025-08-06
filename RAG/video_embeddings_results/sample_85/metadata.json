@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_85.mp4",
+  "video_filename": "sample_85.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    4.67,
+    9.33,
+    14.0,
+    18.67,
+    23.33,
+    28.0,
+    32.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "Analysis of a motorcycle race incident involving a crash and its aftermath.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 4.67,
+      "text": "Analysis of a motorcycle race incident involving a crash and its aftermath.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 9.33,
+      "text": "Analysis of a motorcycle race incident involving a crash and its aftermath.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 14.0,
+      "text": "Analysis of a motorcycle race incident involving a crash and its aftermath.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 18.67,
+      "text": "Analysis of a motorcycle race incident involving a crash and its aftermath.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 23.33,
+      "text": "Analysis of a motorcycle race incident involving a crash and its aftermath.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 28.0,
+      "text": "Analysis of a motorcycle race incident involving a crash and its aftermath.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 32.67,
+      "text": "Analysis of a motorcycle race incident involving a crash and its aftermath.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 99,
+    "fps": 3.0,
+    "duration_seconds": 33.0,
+    "duration_minutes": 0.55
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

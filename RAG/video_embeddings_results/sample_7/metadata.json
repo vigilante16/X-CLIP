@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_7.mp4",
+  "video_filename": "sample_7.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    88.0,
+    176.0,
+    264.0,
+    352.0,
+    440.0,
+    528.0,
+    616.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A comprehensive analysis of the Boston Celtics' recent success, highlighting Jason Tatum's offensive prowess, the team's improved depth, and their playoff journey.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 88.0,
+      "text": "A comprehensive analysis of the Boston Celtics' recent success, highlighting Jason Tatum's offensive prowess, the team's improved depth, and their playoff journey.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 176.0,
+      "text": "A comprehensive analysis of the Boston Celtics' recent success, highlighting Jason Tatum's offensive prowess, the team's improved depth, and their playoff journey.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 264.0,
+      "text": "A comprehensive analysis of the Boston Celtics' recent success, highlighting Jason Tatum's offensive prowess, the team's improved depth, and their playoff journey.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 352.0,
+      "text": "A comprehensive analysis of the Boston Celtics' recent success, highlighting Jason Tatum's offensive prowess, the team's improved depth, and their playoff journey.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 440.0,
+      "text": "A comprehensive analysis of the Boston Celtics' recent success, highlighting Jason Tatum's offensive prowess, the team's improved depth, and their playoff journey.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 528.0,
+      "text": "A comprehensive analysis of the Boston Celtics' recent success, highlighting Jason Tatum's offensive prowess, the team's improved depth, and their playoff journey.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 616.33,
+      "text": "A comprehensive analysis of the Boston Celtics' recent success, highlighting Jason Tatum's offensive prowess, the team's improved depth, and their playoff journey.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1850,
+    "fps": 3.0,
+    "duration_seconds": 616.67,
+    "duration_minutes": 10.28
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

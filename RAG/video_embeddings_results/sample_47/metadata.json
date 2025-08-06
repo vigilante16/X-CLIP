@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_47.mp4",
+  "video_filename": "sample_47.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    22.33,
+    45.0,
+    67.67,
+    90.0,
+    112.67,
+    135.33,
+    158.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A series of scenes depicting professional wrestling matches and post-match interviews, where characters engage in conflicts, alliances, and rivalries.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 22.33,
+      "text": "A series of scenes depicting professional wrestling matches and post-match interviews, where characters engage in conflicts, alliances, and rivalries.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 45.0,
+      "text": "A series of scenes depicting professional wrestling matches and post-match interviews, where characters engage in conflicts, alliances, and rivalries.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 67.67,
+      "text": "A series of scenes depicting professional wrestling matches and post-match interviews, where characters engage in conflicts, alliances, and rivalries.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 90.0,
+      "text": "A series of scenes depicting professional wrestling matches and post-match interviews, where characters engage in conflicts, alliances, and rivalries.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 112.67,
+      "text": "A series of scenes depicting professional wrestling matches and post-match interviews, where characters engage in conflicts, alliances, and rivalries.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 135.33,
+      "text": "A series of scenes depicting professional wrestling matches and post-match interviews, where characters engage in conflicts, alliances, and rivalries.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 158.0,
+      "text": "A series of scenes depicting professional wrestling matches and post-match interviews, where characters engage in conflicts, alliances, and rivalries.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 475,
+    "fps": 3.0,
+    "duration_seconds": 158.33,
+    "duration_minutes": 2.64
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

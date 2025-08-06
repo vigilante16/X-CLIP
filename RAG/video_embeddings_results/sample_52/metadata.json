@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_52.mp4",
+  "video_filename": "sample_52.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    86.0,
+    172.0,
+    258.0,
+    344.0,
+    430.0,
+    516.0,
+    602.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An exploration of Zazel, the world's first human cannonball, her rise to fame, and her advocacy for safety.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 86.0,
+      "text": "An exploration of Zazel, the world's first human cannonball, her rise to fame, and her advocacy for safety.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 172.0,
+      "text": "An exploration of Zazel, the world's first human cannonball, her rise to fame, and her advocacy for safety.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 258.0,
+      "text": "An exploration of Zazel, the world's first human cannonball, her rise to fame, and her advocacy for safety.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 344.0,
+      "text": "An exploration of Zazel, the world's first human cannonball, her rise to fame, and her advocacy for safety.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 430.0,
+      "text": "An exploration of Zazel, the world's first human cannonball, her rise to fame, and her advocacy for safety.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 516.0,
+      "text": "An exploration of Zazel, the world's first human cannonball, her rise to fame, and her advocacy for safety.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 602.33,
+      "text": "An exploration of Zazel, the world's first human cannonball, her rise to fame, and her advocacy for safety.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1808,
+    "fps": 3.0,
+    "duration_seconds": 602.67,
+    "duration_minutes": 10.04
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

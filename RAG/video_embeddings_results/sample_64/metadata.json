@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_64.mp4",
+  "video_filename": "sample_64.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    63.67,
+    127.67,
+    191.33,
+    255.33,
+    319.0,
+    383.0,
+    447.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A comprehensive guide for beginner soccer players focusing on fundamental drills to improve ball control and striking skills.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 63.67,
+      "text": "A comprehensive guide for beginner soccer players focusing on fundamental drills to improve ball control and striking skills.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 127.67,
+      "text": "A comprehensive guide for beginner soccer players focusing on fundamental drills to improve ball control and striking skills.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 191.33,
+      "text": "A comprehensive guide for beginner soccer players focusing on fundamental drills to improve ball control and striking skills.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 255.33,
+      "text": "A comprehensive guide for beginner soccer players focusing on fundamental drills to improve ball control and striking skills.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 319.0,
+      "text": "A comprehensive guide for beginner soccer players focusing on fundamental drills to improve ball control and striking skills.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 383.0,
+      "text": "A comprehensive guide for beginner soccer players focusing on fundamental drills to improve ball control and striking skills.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 447.0,
+      "text": "A comprehensive guide for beginner soccer players focusing on fundamental drills to improve ball control and striking skills.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1342,
+    "fps": 3.0,
+    "duration_seconds": 447.33,
+    "duration_minutes": 7.46
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

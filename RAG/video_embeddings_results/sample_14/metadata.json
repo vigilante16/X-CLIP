@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_14.mp4",
+  "video_filename": "sample_14.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    44.67,
+    89.67,
+    134.67,
+    179.33,
+    224.33,
+    269.33,
+    314.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A compelling narrative story about a significant conflict between two NBA teammates, highlighting the complexities of team dynamics and the power of shared goals.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 44.67,
+      "text": "A compelling narrative story about a significant conflict between two NBA teammates, highlighting the complexities of team dynamics and the power of shared goals.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 89.67,
+      "text": "A compelling narrative story about a significant conflict between two NBA teammates, highlighting the complexities of team dynamics and the power of shared goals.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 134.67,
+      "text": "A compelling narrative story about a significant conflict between two NBA teammates, highlighting the complexities of team dynamics and the power of shared goals.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 179.33,
+      "text": "A compelling narrative story about a significant conflict between two NBA teammates, highlighting the complexities of team dynamics and the power of shared goals.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 224.33,
+      "text": "A compelling narrative story about a significant conflict between two NBA teammates, highlighting the complexities of team dynamics and the power of shared goals.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 269.33,
+      "text": "A compelling narrative story about a significant conflict between two NBA teammates, highlighting the complexities of team dynamics and the power of shared goals.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 314.33,
+      "text": "A compelling narrative story about a significant conflict between two NBA teammates, highlighting the complexities of team dynamics and the power of shared goals.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 944,
+    "fps": 3.0,
+    "duration_seconds": 314.67,
+    "duration_minutes": 5.24
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

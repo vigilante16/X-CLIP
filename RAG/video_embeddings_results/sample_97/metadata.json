@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_97.mp4",
+  "video_filename": "sample_97.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    67.67,
+    135.33,
+    203.0,
+    270.67,
+    338.33,
+    406.0,
+    473.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "This video discusses potential candidates for the Rocky Mountain Construction (RMC) I-Box conversion treatment, focusing on wooden roller coasters in North America. The host provides insights into why each ride could be a good candidate and the potential impact of the conversion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 67.67,
+      "text": "This video discusses potential candidates for the Rocky Mountain Construction (RMC) I-Box conversion treatment, focusing on wooden roller coasters in North America. The host provides insights into why each ride could be a good candidate and the potential impact of the conversion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 135.33,
+      "text": "This video discusses potential candidates for the Rocky Mountain Construction (RMC) I-Box conversion treatment, focusing on wooden roller coasters in North America. The host provides insights into why each ride could be a good candidate and the potential impact of the conversion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 203.0,
+      "text": "This video discusses potential candidates for the Rocky Mountain Construction (RMC) I-Box conversion treatment, focusing on wooden roller coasters in North America. The host provides insights into why each ride could be a good candidate and the potential impact of the conversion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 270.67,
+      "text": "This video discusses potential candidates for the Rocky Mountain Construction (RMC) I-Box conversion treatment, focusing on wooden roller coasters in North America. The host provides insights into why each ride could be a good candidate and the potential impact of the conversion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 338.33,
+      "text": "This video discusses potential candidates for the Rocky Mountain Construction (RMC) I-Box conversion treatment, focusing on wooden roller coasters in North America. The host provides insights into why each ride could be a good candidate and the potential impact of the conversion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 406.0,
+      "text": "This video discusses potential candidates for the Rocky Mountain Construction (RMC) I-Box conversion treatment, focusing on wooden roller coasters in North America. The host provides insights into why each ride could be a good candidate and the potential impact of the conversion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 473.67,
+      "text": "This video discusses potential candidates for the Rocky Mountain Construction (RMC) I-Box conversion treatment, focusing on wooden roller coasters in North America. The host provides insights into why each ride could be a good candidate and the potential impact of the conversion.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1422,
+    "fps": 3.0,
+    "duration_seconds": 474.0,
+    "duration_minutes": 7.9
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

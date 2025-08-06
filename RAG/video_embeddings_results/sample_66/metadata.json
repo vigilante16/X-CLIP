@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_66.mp4",
+  "video_filename": "sample_66.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    35.0,
+    70.33,
+    105.33,
+    140.67,
+    175.67,
+    211.0,
+    246.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A detailed analysis of a Muay Thai match between Fighter 1 (Bobby Fish) and Fighter 2 (Matt Nordberg), including character descriptions, scene breakdowns, and storyline elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 35.0,
+      "text": "A detailed analysis of a Muay Thai match between Fighter 1 (Bobby Fish) and Fighter 2 (Matt Nordberg), including character descriptions, scene breakdowns, and storyline elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 70.33,
+      "text": "A detailed analysis of a Muay Thai match between Fighter 1 (Bobby Fish) and Fighter 2 (Matt Nordberg), including character descriptions, scene breakdowns, and storyline elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 105.33,
+      "text": "A detailed analysis of a Muay Thai match between Fighter 1 (Bobby Fish) and Fighter 2 (Matt Nordberg), including character descriptions, scene breakdowns, and storyline elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 140.67,
+      "text": "A detailed analysis of a Muay Thai match between Fighter 1 (Bobby Fish) and Fighter 2 (Matt Nordberg), including character descriptions, scene breakdowns, and storyline elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 175.67,
+      "text": "A detailed analysis of a Muay Thai match between Fighter 1 (Bobby Fish) and Fighter 2 (Matt Nordberg), including character descriptions, scene breakdowns, and storyline elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 211.0,
+      "text": "A detailed analysis of a Muay Thai match between Fighter 1 (Bobby Fish) and Fighter 2 (Matt Nordberg), including character descriptions, scene breakdowns, and storyline elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 246.33,
+      "text": "A detailed analysis of a Muay Thai match between Fighter 1 (Bobby Fish) and Fighter 2 (Matt Nordberg), including character descriptions, scene breakdowns, and storyline elements.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 740,
+    "fps": 3.0,
+    "duration_seconds": 246.67,
+    "duration_minutes": 4.11
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

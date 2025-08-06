@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_98.mp4",
+  "video_filename": "sample_98.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    80.0,
+    160.0,
+    240.0,
+    320.0,
+    400.0,
+    480.0,
+    560.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A detailed analysis of a video featuring Christopher Tolkien discussing \"The Silmarillion.\" The video delves into the history, evolution, and thematic elements of the work, as well as J.R.R. Tolkien's personal struggles with its completion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 80.0,
+      "text": "A detailed analysis of a video featuring Christopher Tolkien discussing \"The Silmarillion.\" The video delves into the history, evolution, and thematic elements of the work, as well as J.R.R. Tolkien's personal struggles with its completion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 160.0,
+      "text": "A detailed analysis of a video featuring Christopher Tolkien discussing \"The Silmarillion.\" The video delves into the history, evolution, and thematic elements of the work, as well as J.R.R. Tolkien's personal struggles with its completion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 240.0,
+      "text": "A detailed analysis of a video featuring Christopher Tolkien discussing \"The Silmarillion.\" The video delves into the history, evolution, and thematic elements of the work, as well as J.R.R. Tolkien's personal struggles with its completion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 320.0,
+      "text": "A detailed analysis of a video featuring Christopher Tolkien discussing \"The Silmarillion.\" The video delves into the history, evolution, and thematic elements of the work, as well as J.R.R. Tolkien's personal struggles with its completion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 400.0,
+      "text": "A detailed analysis of a video featuring Christopher Tolkien discussing \"The Silmarillion.\" The video delves into the history, evolution, and thematic elements of the work, as well as J.R.R. Tolkien's personal struggles with its completion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 480.0,
+      "text": "A detailed analysis of a video featuring Christopher Tolkien discussing \"The Silmarillion.\" The video delves into the history, evolution, and thematic elements of the work, as well as J.R.R. Tolkien's personal struggles with its completion.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 560.0,
+      "text": "A detailed analysis of a video featuring Christopher Tolkien discussing \"The Silmarillion.\" The video delves into the history, evolution, and thematic elements of the work, as well as J.R.R. Tolkien's personal struggles with its completion.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1681,
+    "fps": 3.0,
+    "duration_seconds": 560.33,
+    "duration_minutes": 9.34
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

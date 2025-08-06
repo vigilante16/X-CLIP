@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_20.mp4",
+  "video_filename": "sample_20.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    46.67,
+    93.67,
+    140.33,
+    187.33,
+    234.0,
+    281.0,
+    328.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An analysis of the movie Kung Fu Panda focusing on character details, scene breakdowns, storylines, thematic elements, and trimming suggestions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 46.67,
+      "text": "An analysis of the movie Kung Fu Panda focusing on character details, scene breakdowns, storylines, thematic elements, and trimming suggestions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 93.67,
+      "text": "An analysis of the movie Kung Fu Panda focusing on character details, scene breakdowns, storylines, thematic elements, and trimming suggestions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 140.33,
+      "text": "An analysis of the movie Kung Fu Panda focusing on character details, scene breakdowns, storylines, thematic elements, and trimming suggestions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 187.33,
+      "text": "An analysis of the movie Kung Fu Panda focusing on character details, scene breakdowns, storylines, thematic elements, and trimming suggestions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 234.0,
+      "text": "An analysis of the movie Kung Fu Panda focusing on character details, scene breakdowns, storylines, thematic elements, and trimming suggestions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 281.0,
+      "text": "An analysis of the movie Kung Fu Panda focusing on character details, scene breakdowns, storylines, thematic elements, and trimming suggestions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 328.0,
+      "text": "An analysis of the movie Kung Fu Panda focusing on character details, scene breakdowns, storylines, thematic elements, and trimming suggestions.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 985,
+    "fps": 3.0,
+    "duration_seconds": 328.33,
+    "duration_minutes": 5.47
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

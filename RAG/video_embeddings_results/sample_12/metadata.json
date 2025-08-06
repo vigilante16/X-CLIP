@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_12.mp4",
+  "video_filename": "sample_12.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    39.33,
+    78.67,
+    118.0,
+    157.33,
+    196.67,
+    236.0,
+    275.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An exploration of the personal misconduct and serious allegations that led to the permanent banning of certain wrestlers from WWE. Includes an analysis of the stories of Ryback, Sunny, Alberto Del Rio, Brock Lesnar, Vince McMahon, and Chris Benoit, their actions, and the consequences they faced.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 39.33,
+      "text": "An exploration of the personal misconduct and serious allegations that led to the permanent banning of certain wrestlers from WWE. Includes an analysis of the stories of Ryback, Sunny, Alberto Del Rio, Brock Lesnar, Vince McMahon, and Chris Benoit, their actions, and the consequences they faced.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 78.67,
+      "text": "An exploration of the personal misconduct and serious allegations that led to the permanent banning of certain wrestlers from WWE. Includes an analysis of the stories of Ryback, Sunny, Alberto Del Rio, Brock Lesnar, Vince McMahon, and Chris Benoit, their actions, and the consequences they faced.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 118.0,
+      "text": "An exploration of the personal misconduct and serious allegations that led to the permanent banning of certain wrestlers from WWE. Includes an analysis of the stories of Ryback, Sunny, Alberto Del Rio, Brock Lesnar, Vince McMahon, and Chris Benoit, their actions, and the consequences they faced.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 157.33,
+      "text": "An exploration of the personal misconduct and serious allegations that led to the permanent banning of certain wrestlers from WWE. Includes an analysis of the stories of Ryback, Sunny, Alberto Del Rio, Brock Lesnar, Vince McMahon, and Chris Benoit, their actions, and the consequences they faced.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 196.67,
+      "text": "An exploration of the personal misconduct and serious allegations that led to the permanent banning of certain wrestlers from WWE. Includes an analysis of the stories of Ryback, Sunny, Alberto Del Rio, Brock Lesnar, Vince McMahon, and Chris Benoit, their actions, and the consequences they faced.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 236.0,
+      "text": "An exploration of the personal misconduct and serious allegations that led to the permanent banning of certain wrestlers from WWE. Includes an analysis of the stories of Ryback, Sunny, Alberto Del Rio, Brock Lesnar, Vince McMahon, and Chris Benoit, their actions, and the consequences they faced.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 275.67,
+      "text": "An exploration of the personal misconduct and serious allegations that led to the permanent banning of certain wrestlers from WWE. Includes an analysis of the stories of Ryback, Sunny, Alberto Del Rio, Brock Lesnar, Vince McMahon, and Chris Benoit, their actions, and the consequences they faced.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 828,
+    "fps": 3.0,
+    "duration_seconds": 276.0,
+    "duration_minutes": 4.6
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

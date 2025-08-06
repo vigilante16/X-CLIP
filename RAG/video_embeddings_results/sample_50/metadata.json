@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_50.mp4",
+  "video_filename": "sample_50.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    7.33,
+    14.67,
+    22.0,
+    29.33,
+    36.67,
+    44.0,
+    51.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A video introducing Smile 'N Sam Alvey as a UFC fighter and MMA coach, highlighting the energy and excitement of Dan Henderson's Athletic Fitness Center.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 7.33,
+      "text": "A video introducing Smile 'N Sam Alvey as a UFC fighter and MMA coach, highlighting the energy and excitement of Dan Henderson's Athletic Fitness Center.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 14.67,
+      "text": "A video introducing Smile 'N Sam Alvey as a UFC fighter and MMA coach, highlighting the energy and excitement of Dan Henderson's Athletic Fitness Center.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 22.0,
+      "text": "A video introducing Smile 'N Sam Alvey as a UFC fighter and MMA coach, highlighting the energy and excitement of Dan Henderson's Athletic Fitness Center.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 29.33,
+      "text": "A video introducing Smile 'N Sam Alvey as a UFC fighter and MMA coach, highlighting the energy and excitement of Dan Henderson's Athletic Fitness Center.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 36.67,
+      "text": "A video introducing Smile 'N Sam Alvey as a UFC fighter and MMA coach, highlighting the energy and excitement of Dan Henderson's Athletic Fitness Center.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 44.0,
+      "text": "A video introducing Smile 'N Sam Alvey as a UFC fighter and MMA coach, highlighting the energy and excitement of Dan Henderson's Athletic Fitness Center.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 51.67,
+      "text": "A video introducing Smile 'N Sam Alvey as a UFC fighter and MMA coach, highlighting the energy and excitement of Dan Henderson's Athletic Fitness Center.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 156,
+    "fps": 3.0,
+    "duration_seconds": 52.0,
+    "duration_minutes": 0.87
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

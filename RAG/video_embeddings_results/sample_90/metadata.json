@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_90.mp4",
+  "video_filename": "sample_90.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    22.0,
+    44.0,
+    66.33,
+    88.33,
+    110.67,
+    132.67,
+    155.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A comprehensive analysis of a wrestling match video, focusing on character dynamics, scenes, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 22.0,
+      "text": "A comprehensive analysis of a wrestling match video, focusing on character dynamics, scenes, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 44.0,
+      "text": "A comprehensive analysis of a wrestling match video, focusing on character dynamics, scenes, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 66.33,
+      "text": "A comprehensive analysis of a wrestling match video, focusing on character dynamics, scenes, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 88.33,
+      "text": "A comprehensive analysis of a wrestling match video, focusing on character dynamics, scenes, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 110.67,
+      "text": "A comprehensive analysis of a wrestling match video, focusing on character dynamics, scenes, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 132.67,
+      "text": "A comprehensive analysis of a wrestling match video, focusing on character dynamics, scenes, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 155.0,
+      "text": "A comprehensive analysis of a wrestling match video, focusing on character dynamics, scenes, and thematic elements.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 466,
+    "fps": 3.0,
+    "duration_seconds": 155.33,
+    "duration_minutes": 2.59
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

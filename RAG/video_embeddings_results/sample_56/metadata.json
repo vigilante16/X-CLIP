@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_56.mp4",
+  "video_filename": "sample_56.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    7.0,
+    14.0,
+    21.0,
+    28.33,
+    35.33,
+    42.33,
+    49.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "This video highlights Latanna Stone, a golfer, sharing her experiences and achievements in her golf career, particularly focusing on her representation of Team USA and winning the SEC Championship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 7.0,
+      "text": "This video highlights Latanna Stone, a golfer, sharing her experiences and achievements in her golf career, particularly focusing on her representation of Team USA and winning the SEC Championship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 14.0,
+      "text": "This video highlights Latanna Stone, a golfer, sharing her experiences and achievements in her golf career, particularly focusing on her representation of Team USA and winning the SEC Championship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 21.0,
+      "text": "This video highlights Latanna Stone, a golfer, sharing her experiences and achievements in her golf career, particularly focusing on her representation of Team USA and winning the SEC Championship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 28.33,
+      "text": "This video highlights Latanna Stone, a golfer, sharing her experiences and achievements in her golf career, particularly focusing on her representation of Team USA and winning the SEC Championship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 35.33,
+      "text": "This video highlights Latanna Stone, a golfer, sharing her experiences and achievements in her golf career, particularly focusing on her representation of Team USA and winning the SEC Championship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 42.33,
+      "text": "This video highlights Latanna Stone, a golfer, sharing her experiences and achievements in her golf career, particularly focusing on her representation of Team USA and winning the SEC Championship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 49.67,
+      "text": "This video highlights Latanna Stone, a golfer, sharing her experiences and achievements in her golf career, particularly focusing on her representation of Team USA and winning the SEC Championship.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 150,
+    "fps": 3.0,
+    "duration_seconds": 50.0,
+    "duration_minutes": 0.83
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

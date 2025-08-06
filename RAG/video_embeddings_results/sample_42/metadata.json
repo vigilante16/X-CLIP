@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_42.mp4",
+  "video_filename": "sample_42.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    53.67,
+    107.67,
+    161.67,
+    215.67,
+    269.67,
+    323.67,
+    377.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A tutorial video showcasing William Bonac demonstrating various chest exercises using Panatta gym equipment, emphasizing the benefits, safety features, and effectiveness of each machine.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 53.67,
+      "text": "A tutorial video showcasing William Bonac demonstrating various chest exercises using Panatta gym equipment, emphasizing the benefits, safety features, and effectiveness of each machine.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 107.67,
+      "text": "A tutorial video showcasing William Bonac demonstrating various chest exercises using Panatta gym equipment, emphasizing the benefits, safety features, and effectiveness of each machine.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 161.67,
+      "text": "A tutorial video showcasing William Bonac demonstrating various chest exercises using Panatta gym equipment, emphasizing the benefits, safety features, and effectiveness of each machine.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 215.67,
+      "text": "A tutorial video showcasing William Bonac demonstrating various chest exercises using Panatta gym equipment, emphasizing the benefits, safety features, and effectiveness of each machine.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 269.67,
+      "text": "A tutorial video showcasing William Bonac demonstrating various chest exercises using Panatta gym equipment, emphasizing the benefits, safety features, and effectiveness of each machine.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 323.67,
+      "text": "A tutorial video showcasing William Bonac demonstrating various chest exercises using Panatta gym equipment, emphasizing the benefits, safety features, and effectiveness of each machine.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 377.67,
+      "text": "A tutorial video showcasing William Bonac demonstrating various chest exercises using Panatta gym equipment, emphasizing the benefits, safety features, and effectiveness of each machine.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1134,
+    "fps": 3.0,
+    "duration_seconds": 378.0,
+    "duration_minutes": 6.3
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

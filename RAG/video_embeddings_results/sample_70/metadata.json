@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_70.mp4",
+  "video_filename": "sample_70.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    30.67,
+    61.67,
+    92.67,
+    123.33,
+    154.33,
+    185.33,
+    216.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "This analysis covers a wrestling match between Christian Cage and Frankie Kazarian, highlighting key moments, character dynamics, and potential segments for trimming.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 30.67,
+      "text": "This analysis covers a wrestling match between Christian Cage and Frankie Kazarian, highlighting key moments, character dynamics, and potential segments for trimming.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 61.67,
+      "text": "This analysis covers a wrestling match between Christian Cage and Frankie Kazarian, highlighting key moments, character dynamics, and potential segments for trimming.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 92.67,
+      "text": "This analysis covers a wrestling match between Christian Cage and Frankie Kazarian, highlighting key moments, character dynamics, and potential segments for trimming.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 123.33,
+      "text": "This analysis covers a wrestling match between Christian Cage and Frankie Kazarian, highlighting key moments, character dynamics, and potential segments for trimming.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 154.33,
+      "text": "This analysis covers a wrestling match between Christian Cage and Frankie Kazarian, highlighting key moments, character dynamics, and potential segments for trimming.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 185.33,
+      "text": "This analysis covers a wrestling match between Christian Cage and Frankie Kazarian, highlighting key moments, character dynamics, and potential segments for trimming.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 216.33,
+      "text": "This analysis covers a wrestling match between Christian Cage and Frankie Kazarian, highlighting key moments, character dynamics, and potential segments for trimming.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 650,
+    "fps": 3.0,
+    "duration_seconds": 216.67,
+    "duration_minutes": 3.61
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

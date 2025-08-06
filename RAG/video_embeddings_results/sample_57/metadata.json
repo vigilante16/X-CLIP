@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_57.mp4",
+  "video_filename": "sample_57.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    28.67,
+    57.67,
+    86.67,
+    115.67,
+    144.67,
+    173.67,
+    202.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A post-game interview and celebration video featuring Alvin Kamara, Mark Ingram, Michael Thomas, Reggie Bush, and special guests including media interviewers. The video captures moments of humor, camaraderie, and recognition after the New Orleans Saints playoff victory.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 28.67,
+      "text": "A post-game interview and celebration video featuring Alvin Kamara, Mark Ingram, Michael Thomas, Reggie Bush, and special guests including media interviewers. The video captures moments of humor, camaraderie, and recognition after the New Orleans Saints playoff victory.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 57.67,
+      "text": "A post-game interview and celebration video featuring Alvin Kamara, Mark Ingram, Michael Thomas, Reggie Bush, and special guests including media interviewers. The video captures moments of humor, camaraderie, and recognition after the New Orleans Saints playoff victory.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 86.67,
+      "text": "A post-game interview and celebration video featuring Alvin Kamara, Mark Ingram, Michael Thomas, Reggie Bush, and special guests including media interviewers. The video captures moments of humor, camaraderie, and recognition after the New Orleans Saints playoff victory.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 115.67,
+      "text": "A post-game interview and celebration video featuring Alvin Kamara, Mark Ingram, Michael Thomas, Reggie Bush, and special guests including media interviewers. The video captures moments of humor, camaraderie, and recognition after the New Orleans Saints playoff victory.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 144.67,
+      "text": "A post-game interview and celebration video featuring Alvin Kamara, Mark Ingram, Michael Thomas, Reggie Bush, and special guests including media interviewers. The video captures moments of humor, camaraderie, and recognition after the New Orleans Saints playoff victory.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 173.67,
+      "text": "A post-game interview and celebration video featuring Alvin Kamara, Mark Ingram, Michael Thomas, Reggie Bush, and special guests including media interviewers. The video captures moments of humor, camaraderie, and recognition after the New Orleans Saints playoff victory.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 202.67,
+      "text": "A post-game interview and celebration video featuring Alvin Kamara, Mark Ingram, Michael Thomas, Reggie Bush, and special guests including media interviewers. The video captures moments of humor, camaraderie, and recognition after the New Orleans Saints playoff victory.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 609,
+    "fps": 3.0,
+    "duration_seconds": 203.0,
+    "duration_minutes": 3.38
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

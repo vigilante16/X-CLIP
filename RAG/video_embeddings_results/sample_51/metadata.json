@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_51.mp4",
+  "video_filename": "sample_51.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    18.67,
+    37.33,
+    56.0,
+    75.0,
+    93.67,
+    112.33,
+    131.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A video showcasing various roles of professionals in the field of zoology and wildlife biology, featuring testimonials from a Zoo Director, Ichthyologist, Marine Biologist, and Park Ranger.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 18.67,
+      "text": "A video showcasing various roles of professionals in the field of zoology and wildlife biology, featuring testimonials from a Zoo Director, Ichthyologist, Marine Biologist, and Park Ranger.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 37.33,
+      "text": "A video showcasing various roles of professionals in the field of zoology and wildlife biology, featuring testimonials from a Zoo Director, Ichthyologist, Marine Biologist, and Park Ranger.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 56.0,
+      "text": "A video showcasing various roles of professionals in the field of zoology and wildlife biology, featuring testimonials from a Zoo Director, Ichthyologist, Marine Biologist, and Park Ranger.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 75.0,
+      "text": "A video showcasing various roles of professionals in the field of zoology and wildlife biology, featuring testimonials from a Zoo Director, Ichthyologist, Marine Biologist, and Park Ranger.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 93.67,
+      "text": "A video showcasing various roles of professionals in the field of zoology and wildlife biology, featuring testimonials from a Zoo Director, Ichthyologist, Marine Biologist, and Park Ranger.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 112.33,
+      "text": "A video showcasing various roles of professionals in the field of zoology and wildlife biology, featuring testimonials from a Zoo Director, Ichthyologist, Marine Biologist, and Park Ranger.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 131.33,
+      "text": "A video showcasing various roles of professionals in the field of zoology and wildlife biology, featuring testimonials from a Zoo Director, Ichthyologist, Marine Biologist, and Park Ranger.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 395,
+    "fps": 3.0,
+    "duration_seconds": 131.67,
+    "duration_minutes": 2.19
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

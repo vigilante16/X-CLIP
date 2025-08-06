@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_59.mp4",
+  "video_filename": "sample_59.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    92.67,
+    185.67,
+    278.67,
+    371.67,
+    464.67,
+    557.67,
+    650.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A detailed review of a wrestling match by Isaac Gomez, focusing on technique and strategic analysis.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 92.67,
+      "text": "A detailed review of a wrestling match by Isaac Gomez, focusing on technique and strategic analysis.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 185.67,
+      "text": "A detailed review of a wrestling match by Isaac Gomez, focusing on technique and strategic analysis.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 278.67,
+      "text": "A detailed review of a wrestling match by Isaac Gomez, focusing on technique and strategic analysis.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 371.67,
+      "text": "A detailed review of a wrestling match by Isaac Gomez, focusing on technique and strategic analysis.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 464.67,
+      "text": "A detailed review of a wrestling match by Isaac Gomez, focusing on technique and strategic analysis.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 557.67,
+      "text": "A detailed review of a wrestling match by Isaac Gomez, focusing on technique and strategic analysis.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 650.67,
+      "text": "A detailed review of a wrestling match by Isaac Gomez, focusing on technique and strategic analysis.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1953,
+    "fps": 3.0,
+    "duration_seconds": 651.0,
+    "duration_minutes": 10.85
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

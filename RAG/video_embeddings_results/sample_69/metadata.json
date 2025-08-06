@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_69.mp4",
+  "video_filename": "sample_69.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    5.0,
+    10.0,
+    15.0,
+    20.0,
+    25.0,
+    30.0,
+    35.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A highlight reel of an exciting soccer match between Chattanooga FC and Atlanta United FC, resulting in a 3-3 draw. The video showcases key moments, fan reactions, and the enthusiastic atmosphere of the game.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 5.0,
+      "text": "A highlight reel of an exciting soccer match between Chattanooga FC and Atlanta United FC, resulting in a 3-3 draw. The video showcases key moments, fan reactions, and the enthusiastic atmosphere of the game.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 10.0,
+      "text": "A highlight reel of an exciting soccer match between Chattanooga FC and Atlanta United FC, resulting in a 3-3 draw. The video showcases key moments, fan reactions, and the enthusiastic atmosphere of the game.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 15.0,
+      "text": "A highlight reel of an exciting soccer match between Chattanooga FC and Atlanta United FC, resulting in a 3-3 draw. The video showcases key moments, fan reactions, and the enthusiastic atmosphere of the game.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 20.0,
+      "text": "A highlight reel of an exciting soccer match between Chattanooga FC and Atlanta United FC, resulting in a 3-3 draw. The video showcases key moments, fan reactions, and the enthusiastic atmosphere of the game.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 25.0,
+      "text": "A highlight reel of an exciting soccer match between Chattanooga FC and Atlanta United FC, resulting in a 3-3 draw. The video showcases key moments, fan reactions, and the enthusiastic atmosphere of the game.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 30.0,
+      "text": "A highlight reel of an exciting soccer match between Chattanooga FC and Atlanta United FC, resulting in a 3-3 draw. The video showcases key moments, fan reactions, and the enthusiastic atmosphere of the game.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 35.0,
+      "text": "A highlight reel of an exciting soccer match between Chattanooga FC and Atlanta United FC, resulting in a 3-3 draw. The video showcases key moments, fan reactions, and the enthusiastic atmosphere of the game.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 106,
+    "fps": 3.0,
+    "duration_seconds": 35.33,
+    "duration_minutes": 0.59
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

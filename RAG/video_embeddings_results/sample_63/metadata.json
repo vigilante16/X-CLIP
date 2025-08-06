@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_63.mp4",
+  "video_filename": "sample_63.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    6.0,
+    12.0,
+    18.0,
+    24.0,
+    30.0,
+    36.0,
+    42.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A motivational video focused on fitness featuring Master Fitness maintaining his workout routine aboard a cruise ship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 6.0,
+      "text": "A motivational video focused on fitness featuring Master Fitness maintaining his workout routine aboard a cruise ship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 12.0,
+      "text": "A motivational video focused on fitness featuring Master Fitness maintaining his workout routine aboard a cruise ship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 18.0,
+      "text": "A motivational video focused on fitness featuring Master Fitness maintaining his workout routine aboard a cruise ship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 24.0,
+      "text": "A motivational video focused on fitness featuring Master Fitness maintaining his workout routine aboard a cruise ship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 30.0,
+      "text": "A motivational video focused on fitness featuring Master Fitness maintaining his workout routine aboard a cruise ship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 36.0,
+      "text": "A motivational video focused on fitness featuring Master Fitness maintaining his workout routine aboard a cruise ship.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 42.0,
+      "text": "A motivational video focused on fitness featuring Master Fitness maintaining his workout routine aboard a cruise ship.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 127,
+    "fps": 3.0,
+    "duration_seconds": 42.33,
+    "duration_minutes": 0.71
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

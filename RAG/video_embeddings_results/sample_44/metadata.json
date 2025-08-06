@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_44.mp4",
+  "video_filename": "sample_44.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    86.0,
+    172.0,
+    258.0,
+    344.33,
+    430.33,
+    516.33,
+    602.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A detailed profile of the G.I. Joe action figure 'Airborne,' covering the history, variations, accessories, character role, and media appearances.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 86.0,
+      "text": "A detailed profile of the G.I. Joe action figure 'Airborne,' covering the history, variations, accessories, character role, and media appearances.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 172.0,
+      "text": "A detailed profile of the G.I. Joe action figure 'Airborne,' covering the history, variations, accessories, character role, and media appearances.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 258.0,
+      "text": "A detailed profile of the G.I. Joe action figure 'Airborne,' covering the history, variations, accessories, character role, and media appearances.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 344.33,
+      "text": "A detailed profile of the G.I. Joe action figure 'Airborne,' covering the history, variations, accessories, character role, and media appearances.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 430.33,
+      "text": "A detailed profile of the G.I. Joe action figure 'Airborne,' covering the history, variations, accessories, character role, and media appearances.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 516.33,
+      "text": "A detailed profile of the G.I. Joe action figure 'Airborne,' covering the history, variations, accessories, character role, and media appearances.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 602.67,
+      "text": "A detailed profile of the G.I. Joe action figure 'Airborne,' covering the history, variations, accessories, character role, and media appearances.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1809,
+    "fps": 3.0,
+    "duration_seconds": 603.0,
+    "duration_minutes": 10.05
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

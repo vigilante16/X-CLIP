@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_5.mp4",
+  "video_filename": "sample_5.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    23.33,
+    46.67,
+    70.0,
+    93.67,
+    117.0,
+    140.33,
+    164.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A video tutorial led by David Wong, focused on creating a guide box for Wing Chun wooden dummy practice.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 23.33,
+      "text": "A video tutorial led by David Wong, focused on creating a guide box for Wing Chun wooden dummy practice.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 46.67,
+      "text": "A video tutorial led by David Wong, focused on creating a guide box for Wing Chun wooden dummy practice.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 70.0,
+      "text": "A video tutorial led by David Wong, focused on creating a guide box for Wing Chun wooden dummy practice.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 93.67,
+      "text": "A video tutorial led by David Wong, focused on creating a guide box for Wing Chun wooden dummy practice.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 117.0,
+      "text": "A video tutorial led by David Wong, focused on creating a guide box for Wing Chun wooden dummy practice.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 140.33,
+      "text": "A video tutorial led by David Wong, focused on creating a guide box for Wing Chun wooden dummy practice.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 164.0,
+      "text": "A video tutorial led by David Wong, focused on creating a guide box for Wing Chun wooden dummy practice.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 493,
+    "fps": 3.0,
+    "duration_seconds": 164.33,
+    "duration_minutes": 2.74
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

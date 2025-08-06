@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_74.mp4",
+  "video_filename": "sample_74.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    84.33,
+    168.67,
+    253.0,
+    337.33,
+    421.67,
+    506.0,
+    590.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An in-depth examination of the events leading up to Kurt Cobain's breakdown in Rome, featuring character interactions, thematic elements, and narrative progression.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 84.33,
+      "text": "An in-depth examination of the events leading up to Kurt Cobain's breakdown in Rome, featuring character interactions, thematic elements, and narrative progression.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 168.67,
+      "text": "An in-depth examination of the events leading up to Kurt Cobain's breakdown in Rome, featuring character interactions, thematic elements, and narrative progression.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 253.0,
+      "text": "An in-depth examination of the events leading up to Kurt Cobain's breakdown in Rome, featuring character interactions, thematic elements, and narrative progression.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 337.33,
+      "text": "An in-depth examination of the events leading up to Kurt Cobain's breakdown in Rome, featuring character interactions, thematic elements, and narrative progression.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 421.67,
+      "text": "An in-depth examination of the events leading up to Kurt Cobain's breakdown in Rome, featuring character interactions, thematic elements, and narrative progression.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 506.0,
+      "text": "An in-depth examination of the events leading up to Kurt Cobain's breakdown in Rome, featuring character interactions, thematic elements, and narrative progression.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 590.33,
+      "text": "An in-depth examination of the events leading up to Kurt Cobain's breakdown in Rome, featuring character interactions, thematic elements, and narrative progression.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1772,
+    "fps": 3.0,
+    "duration_seconds": 590.67,
+    "duration_minutes": 9.84
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

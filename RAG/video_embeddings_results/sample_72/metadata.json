@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_72.mp4",
+  "video_filename": "sample_72.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    66.0,
+    132.33,
+    198.33,
+    264.67,
+    330.67,
+    397.0,
+    463.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A detailed analysis of a fitness vlog featuring a bodybuilder's journey through a workout day.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 66.0,
+      "text": "A detailed analysis of a fitness vlog featuring a bodybuilder's journey through a workout day.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 132.33,
+      "text": "A detailed analysis of a fitness vlog featuring a bodybuilder's journey through a workout day.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 198.33,
+      "text": "A detailed analysis of a fitness vlog featuring a bodybuilder's journey through a workout day.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 264.67,
+      "text": "A detailed analysis of a fitness vlog featuring a bodybuilder's journey through a workout day.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 330.67,
+      "text": "A detailed analysis of a fitness vlog featuring a bodybuilder's journey through a workout day.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 397.0,
+      "text": "A detailed analysis of a fitness vlog featuring a bodybuilder's journey through a workout day.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 463.33,
+      "text": "A detailed analysis of a fitness vlog featuring a bodybuilder's journey through a workout day.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1391,
+    "fps": 3.0,
+    "duration_seconds": 463.67,
+    "duration_minutes": 7.73
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

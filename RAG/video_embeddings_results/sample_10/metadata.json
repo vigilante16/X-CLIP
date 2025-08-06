@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_10.mp4",
+  "video_filename": "sample_10.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    8.67,
+    17.67,
+    26.67,
+    35.33,
+    44.33,
+    53.33,
+    62.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "Video showcasing thrilling moments in a cricket match, highlighting skills, rivalry, and pivotal interactions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 8.67,
+      "text": "Video showcasing thrilling moments in a cricket match, highlighting skills, rivalry, and pivotal interactions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 17.67,
+      "text": "Video showcasing thrilling moments in a cricket match, highlighting skills, rivalry, and pivotal interactions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 26.67,
+      "text": "Video showcasing thrilling moments in a cricket match, highlighting skills, rivalry, and pivotal interactions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 35.33,
+      "text": "Video showcasing thrilling moments in a cricket match, highlighting skills, rivalry, and pivotal interactions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 44.33,
+      "text": "Video showcasing thrilling moments in a cricket match, highlighting skills, rivalry, and pivotal interactions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 53.33,
+      "text": "Video showcasing thrilling moments in a cricket match, highlighting skills, rivalry, and pivotal interactions.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 62.33,
+      "text": "Video showcasing thrilling moments in a cricket match, highlighting skills, rivalry, and pivotal interactions.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 188,
+    "fps": 3.0,
+    "duration_seconds": 62.67,
+    "duration_minutes": 1.04
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_21.mp4",
+  "video_filename": "sample_21.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    4.67,
+    9.67,
+    14.67,
+    19.67,
+    24.67,
+    29.67,
+    34.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "The video follows Woman 1's journey as she pursues a career in nursing in Australia. It explores her initial optimism, the challenges she faces, and the emotional struggles she encounters along the way.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 4.67,
+      "text": "The video follows Woman 1's journey as she pursues a career in nursing in Australia. It explores her initial optimism, the challenges she faces, and the emotional struggles she encounters along the way.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 9.67,
+      "text": "The video follows Woman 1's journey as she pursues a career in nursing in Australia. It explores her initial optimism, the challenges she faces, and the emotional struggles she encounters along the way.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 14.67,
+      "text": "The video follows Woman 1's journey as she pursues a career in nursing in Australia. It explores her initial optimism, the challenges she faces, and the emotional struggles she encounters along the way.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 19.67,
+      "text": "The video follows Woman 1's journey as she pursues a career in nursing in Australia. It explores her initial optimism, the challenges she faces, and the emotional struggles she encounters along the way.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 24.67,
+      "text": "The video follows Woman 1's journey as she pursues a career in nursing in Australia. It explores her initial optimism, the challenges she faces, and the emotional struggles she encounters along the way.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 29.67,
+      "text": "The video follows Woman 1's journey as she pursues a career in nursing in Australia. It explores her initial optimism, the challenges she faces, and the emotional struggles she encounters along the way.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 34.67,
+      "text": "The video follows Woman 1's journey as she pursues a career in nursing in Australia. It explores her initial optimism, the challenges she faces, and the emotional struggles she encounters along the way.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 105,
+    "fps": 3.0,
+    "duration_seconds": 35.0,
+    "duration_minutes": 0.58
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

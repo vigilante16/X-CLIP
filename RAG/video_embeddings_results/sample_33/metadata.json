@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_33.mp4",
+  "video_filename": "sample_33.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    17.0,
+    34.33,
+    51.67,
+    68.67,
+    86.0,
+    103.33,
+    120.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "An analytical review of Maggie Cheng's Wushu performance, highlighting character elements, scene analysis, narrative progression, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 17.0,
+      "text": "An analytical review of Maggie Cheng's Wushu performance, highlighting character elements, scene analysis, narrative progression, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 34.33,
+      "text": "An analytical review of Maggie Cheng's Wushu performance, highlighting character elements, scene analysis, narrative progression, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 51.67,
+      "text": "An analytical review of Maggie Cheng's Wushu performance, highlighting character elements, scene analysis, narrative progression, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 68.67,
+      "text": "An analytical review of Maggie Cheng's Wushu performance, highlighting character elements, scene analysis, narrative progression, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 86.0,
+      "text": "An analytical review of Maggie Cheng's Wushu performance, highlighting character elements, scene analysis, narrative progression, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 103.33,
+      "text": "An analytical review of Maggie Cheng's Wushu performance, highlighting character elements, scene analysis, narrative progression, and thematic elements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 120.67,
+      "text": "An analytical review of Maggie Cheng's Wushu performance, highlighting character elements, scene analysis, narrative progression, and thematic elements.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 363,
+    "fps": 3.0,
+    "duration_seconds": 121.0,
+    "duration_minutes": 2.02
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

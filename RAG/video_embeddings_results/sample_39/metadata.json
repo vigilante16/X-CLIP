@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_39.mp4",
+  "video_filename": "sample_39.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    64.33,
+    129.0,
+    193.33,
+    258.0,
+    322.33,
+    387.0,
+    451.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "Analysis of Claire Carmichael's video discussing tattoos and hair color policies in healthcare.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 64.33,
+      "text": "Analysis of Claire Carmichael's video discussing tattoos and hair color policies in healthcare.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 129.0,
+      "text": "Analysis of Claire Carmichael's video discussing tattoos and hair color policies in healthcare.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 193.33,
+      "text": "Analysis of Claire Carmichael's video discussing tattoos and hair color policies in healthcare.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 258.0,
+      "text": "Analysis of Claire Carmichael's video discussing tattoos and hair color policies in healthcare.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 322.33,
+      "text": "Analysis of Claire Carmichael's video discussing tattoos and hair color policies in healthcare.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 387.0,
+      "text": "Analysis of Claire Carmichael's video discussing tattoos and hair color policies in healthcare.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 451.67,
+      "text": "Analysis of Claire Carmichael's video discussing tattoos and hair color policies in healthcare.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1356,
+    "fps": 3.0,
+    "duration_seconds": 452.0,
+    "duration_minutes": 7.53
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

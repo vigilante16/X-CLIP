@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_41.mp4",
+  "video_filename": "sample_41.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    47.67,
+    95.33,
+    143.0,
+    191.0,
+    238.67,
+    286.33,
+    334.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A celebratory YouTube video featuring It'sMJB, a prominent basketball player, showcasing his gameplay and marking a social media milestone.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 47.67,
+      "text": "A celebratory YouTube video featuring It'sMJB, a prominent basketball player, showcasing his gameplay and marking a social media milestone.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 95.33,
+      "text": "A celebratory YouTube video featuring It'sMJB, a prominent basketball player, showcasing his gameplay and marking a social media milestone.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 143.0,
+      "text": "A celebratory YouTube video featuring It'sMJB, a prominent basketball player, showcasing his gameplay and marking a social media milestone.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 191.0,
+      "text": "A celebratory YouTube video featuring It'sMJB, a prominent basketball player, showcasing his gameplay and marking a social media milestone.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 238.67,
+      "text": "A celebratory YouTube video featuring It'sMJB, a prominent basketball player, showcasing his gameplay and marking a social media milestone.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 286.33,
+      "text": "A celebratory YouTube video featuring It'sMJB, a prominent basketball player, showcasing his gameplay and marking a social media milestone.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 334.33,
+      "text": "A celebratory YouTube video featuring It'sMJB, a prominent basketball player, showcasing his gameplay and marking a social media milestone.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1004,
+    "fps": 3.0,
+    "duration_seconds": 334.67,
+    "duration_minutes": 5.58
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

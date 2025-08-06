@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_35.mp4",
+  "video_filename": "sample_35.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    25.67,
+    51.33,
+    77.33,
+    103.0,
+    129.0,
+    154.67,
+    180.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A detailed analysis of a video showcasing David Popovici's victory in a swimming competition, his journey, and achievements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 25.67,
+      "text": "A detailed analysis of a video showcasing David Popovici's victory in a swimming competition, his journey, and achievements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 51.33,
+      "text": "A detailed analysis of a video showcasing David Popovici's victory in a swimming competition, his journey, and achievements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 77.33,
+      "text": "A detailed analysis of a video showcasing David Popovici's victory in a swimming competition, his journey, and achievements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 103.0,
+      "text": "A detailed analysis of a video showcasing David Popovici's victory in a swimming competition, his journey, and achievements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 129.0,
+      "text": "A detailed analysis of a video showcasing David Popovici's victory in a swimming competition, his journey, and achievements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 154.67,
+      "text": "A detailed analysis of a video showcasing David Popovici's victory in a swimming competition, his journey, and achievements.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 180.67,
+      "text": "A detailed analysis of a video showcasing David Popovici's victory in a swimming competition, his journey, and achievements.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 543,
+    "fps": 3.0,
+    "duration_seconds": 181.0,
+    "duration_minutes": 3.02
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

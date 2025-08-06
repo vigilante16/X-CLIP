@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_73.mp4",
+  "video_filename": "sample_73.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    21.67,
+    43.33,
+    65.33,
+    87.0,
+    109.0,
+    130.67,
+    152.67
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A discussion on the intentional tanking by the Eagles, expressing anger and disappointment.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 21.67,
+      "text": "A discussion on the intentional tanking by the Eagles, expressing anger and disappointment.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 43.33,
+      "text": "A discussion on the intentional tanking by the Eagles, expressing anger and disappointment.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 65.33,
+      "text": "A discussion on the intentional tanking by the Eagles, expressing anger and disappointment.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 87.0,
+      "text": "A discussion on the intentional tanking by the Eagles, expressing anger and disappointment.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 109.0,
+      "text": "A discussion on the intentional tanking by the Eagles, expressing anger and disappointment.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 130.67,
+      "text": "A discussion on the intentional tanking by the Eagles, expressing anger and disappointment.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 152.67,
+      "text": "A discussion on the intentional tanking by the Eagles, expressing anger and disappointment.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 459,
+    "fps": 3.0,
+    "duration_seconds": 153.0,
+    "duration_minutes": 2.55
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

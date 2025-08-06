@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_53.mp4",
+  "video_filename": "sample_53.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    81.0,
+    162.33,
+    243.33,
+    324.67,
+    405.67,
+    487.0,
+    568.33
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A thrilling match between France and Croatia, marking the climax of the 2018 FIFA World Cup.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 81.0,
+      "text": "A thrilling match between France and Croatia, marking the climax of the 2018 FIFA World Cup.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 162.33,
+      "text": "A thrilling match between France and Croatia, marking the climax of the 2018 FIFA World Cup.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 243.33,
+      "text": "A thrilling match between France and Croatia, marking the climax of the 2018 FIFA World Cup.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 324.67,
+      "text": "A thrilling match between France and Croatia, marking the climax of the 2018 FIFA World Cup.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 405.67,
+      "text": "A thrilling match between France and Croatia, marking the climax of the 2018 FIFA World Cup.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 487.0,
+      "text": "A thrilling match between France and Croatia, marking the climax of the 2018 FIFA World Cup.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 568.33,
+      "text": "A thrilling match between France and Croatia, marking the climax of the 2018 FIFA World Cup.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1706,
+    "fps": 3.0,
+    "duration_seconds": 568.67,
+    "duration_minutes": 9.48
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

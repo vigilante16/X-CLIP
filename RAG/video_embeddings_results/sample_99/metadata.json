@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_99.mp4",
+  "video_filename": "sample_99.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    73.33,
+    147.0,
+    220.67,
+    294.0,
+    367.67,
+    441.33,
+    515.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "Analysis of David's running form by Jeff Waldberg of Ortho Pro Physical Therapy.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 73.33,
+      "text": "Analysis of David's running form by Jeff Waldberg of Ortho Pro Physical Therapy.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 147.0,
+      "text": "Analysis of David's running form by Jeff Waldberg of Ortho Pro Physical Therapy.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 220.67,
+      "text": "Analysis of David's running form by Jeff Waldberg of Ortho Pro Physical Therapy.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 294.0,
+      "text": "Analysis of David's running form by Jeff Waldberg of Ortho Pro Physical Therapy.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 367.67,
+      "text": "Analysis of David's running form by Jeff Waldberg of Ortho Pro Physical Therapy.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 441.33,
+      "text": "Analysis of David's running form by Jeff Waldberg of Ortho Pro Physical Therapy.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 515.0,
+      "text": "Analysis of David's running form by Jeff Waldberg of Ortho Pro Physical Therapy.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 1546,
+    "fps": 3.0,
+    "duration_seconds": 515.33,
+    "duration_minutes": 8.59
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}

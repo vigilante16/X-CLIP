@@ -1,0 +1,71 @@
+{
+  "video_path": "/root/autodl-tmp/X-CLIP/data/yidong/videos_compressed/sample_23.mp4",
+  "video_filename": "sample_23.mp4",
+  "num_frames": 8,
+  "timestamps": [
+    0.0,
+    36.0,
+    72.0,
+    108.33,
+    144.33,
+    180.67,
+    216.67,
+    253.0
+  ],
+  "frame_texts_info": [
+    {
+      "timestamp": 0.0,
+      "text": "A detailed post-match analysis of a football game between Manchester City and Arsenal conducted by a commentator.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 36.0,
+      "text": "A detailed post-match analysis of a football game between Manchester City and Arsenal conducted by a commentator.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 72.0,
+      "text": "A detailed post-match analysis of a football game between Manchester City and Arsenal conducted by a commentator.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 108.33,
+      "text": "A detailed post-match analysis of a football game between Manchester City and Arsenal conducted by a commentator.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 144.33,
+      "text": "A detailed post-match analysis of a football game between Manchester City and Arsenal conducted by a commentator.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 180.67,
+      "text": "A detailed post-match analysis of a football game between Manchester City and Arsenal conducted by a commentator.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 216.67,
+      "text": "A detailed post-match analysis of a football game between Manchester City and Arsenal conducted by a commentator.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": 253.0,
+      "text": "A detailed post-match analysis of a football game between Manchester City and Arsenal conducted by a commentator.",
+      "confidence": 1.0
+    }
+  ],
+  "video_info": {
+    "total_frames": 760,
+    "fps": 3.0,
+    "duration_seconds": 253.33,
+    "duration_minutes": 4.22
+  },
+  "embeddings": {
+    "video_embeddings_path": "video_embeddings.npy",
+    "text_embeddings_path": "text_embeddings.npy",
+    "shape": [
+      1,
+      512
+    ]
+  }
+}
