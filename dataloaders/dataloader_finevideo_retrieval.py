@@ -49,12 +49,12 @@ class FineVideo_DataLoader(Dataset):
             self.video_ids = [line.strip() for line in f.readlines()]  # 视频ID列表（不含扩展名）
 
         # 建立视频路径映射（视频ID -> 视频文件路径）
-        self.video_path_dict = {}
+        self.video_dict = {}
         for video_fn in os.listdir(self.videos_dir):
             if video_fn.endswith(".mp4"):
                 video_id = os.path.splitext(video_fn)[0]  # 从文件名提取视频ID（去除.mp4）
                 if video_id in self.video_ids:
-                    self.video_path_dict[video_id] = os.path.join(self.videos_dir, video_fn)
+                    self.video_dict[video_id] = os.path.join(self.videos_dir, video_fn)
 
         # 读取元数据并提取文本描述（构建视频-文本对）
         self.sentences_dict = {}  # 索引 -> (video_id, caption)
@@ -71,19 +71,22 @@ class FineVideo_DataLoader(Dataset):
             captions = []
             # 1. 视频整体描述
             overall_desc = meta["content_metadata"].get("description", "")
+            # overall_desc = ""
+            # for content in meta["content_metadata"].get("characterList", []):
+            #     overall_desc += content.get("description", "") + " "
             if overall_desc:
                 captions.append(overall_desc)
             # 2. 场景活动描述
-            for scene in meta["content_metadata"].get("scenes", []):
-                for activity in scene.get("activities", []):
-                    act_desc = activity.get("description", "")
-                    if act_desc:
-                        captions.append(act_desc)
-            # 3. Q&A中的答案（可选）
-            for qa in meta["content_metadata"].get("qAndA", []):
-                ans = qa.get("answer", "")
-                if ans:
-                    captions.append(ans)
+            # for scene in meta["content_metadata"].get("scenes", []):
+            #     for activity in scene.get("activities", []):
+            #         act_desc = activity.get("description", "")
+            #         if act_desc:
+            #             captions.append(act_desc)
+            # # 3. Q&A中的答案（可选）
+            # for qa in meta["content_metadata"].get("qAndA", []):
+            #     ans = qa.get("answer", "")
+            #     if ans:
+            #         captions.append(ans)
 
             # 构建文本索引映射
             for cap in captions:
@@ -100,7 +103,7 @@ class FineVideo_DataLoader(Dataset):
             print(f"[{subset}] 文本数量: {self.sentence_num}, 视频数量: {self.video_num}")
 
         # 视频提取器初始化
-        self.raw_video_extractor = RawVideoExtractor(
+        self.rawVideoExtractor = RawVideoExtractor(
             framerate=feature_framerate,
             size=image_resolution
         )
@@ -111,7 +114,7 @@ class FineVideo_DataLoader(Dataset):
             "PAD_TOKEN": "[PAD]"
         }
 
-        print(f"加载完成: 视频{len(self.video_path_dict)}个, 文本-视频对{len(self.sentences_dict)}个")
+        print(f"加载完成: 视频{len(self.video_dict)}个, 文本-视频对{len(self.sentences_dict)}个")
 
     def __len__(self):
         return len(self.sentences_dict)
@@ -183,9 +186,9 @@ class FineVideo_DataLoader(Dataset):
         """获取文本特征（适配批量处理格式）"""
         # 此处k=1表示每个样本只取1条文本（可扩展为多文本对比）
         k = 1
-        pairs_text = np.zeros((k, self.max_words), dtype=np.long)
-        pairs_mask = np.zeros((k, self.max_words), dtype=np.long)
-        pairs_segment = np.zeros((k, self.max_words), dtype=np.long)
+        pairs_text = np.zeros((k, self.max_words), dtype=np.int64)
+        pairs_mask = np.zeros((k, self.max_words), dtype=np.int64)
+        pairs_segment = np.zeros((k, self.max_words), dtype=np.int64)
 
         # 处理文本
         input_ids, input_mask, segment_ids = self._process_text(caption)
@@ -197,20 +200,28 @@ class FineVideo_DataLoader(Dataset):
 
     def _get_video(self, video_id):
         """提取视频帧特征"""
-        video_path = self.video_path_dict[video_id]
-        try:
-            raw_video_data = self.raw_video_extractor.get_video_data(video_path)
-        except Exception as e:
-            print(f"视频{video_id}解码失败: {e}，跳过该视频")
-            # 返回空视频（需确保模型能处理空输入，或在DataLoader中过滤）
-            return np.zeros((1, self.max_frames, 3, self.image_resolution, self.image_resolution)), np.zeros((1, self.max_frames))
+        
+        video_path = self.video_dict[video_id]
+        raw_video_data = self.rawVideoExtractor.get_video_data(video_path)
+        
         # 调用视频提取器获取原始帧数据
-        raw_video = raw_video_data["video"]  # 格式: [L, T, 3, H, W]（L为片段数，T为每片段帧数）
+        raw_video_data = raw_video_data["video"]  # 格式: [L, T, 3, H, W]（L为片段数，T为每片段帧数）
 
         # 处理帧序列（截断/采样到max_frames）
-        if len(raw_video.shape) > 3:
+        if len(raw_video_data.shape) > 3:
             # 合并片段（取第一个片段或直接合并）
-            raw_video_slice = raw_video[0] if raw_video.shape[0] > 0 else raw_video
+            # raw_video_slice = raw_video[0] if raw_video.shape[0] > 0 else raw_video
+            raw_video_data_clip = raw_video_data
+            # print("==========raw_video_data_clip.shape========================")
+            # print(raw_video_data_clip.shape)    # torch.Size([21, 3, 224, 224]) 
+            # print("==========raw_video_data_clip.shape========================")
+            # L x T x 3 x H x W
+            raw_video_slice = self.rawVideoExtractor.process_raw_data(raw_video_data_clip)
+            
+            # print("==========raw_video_slice.shape========================")
+            # print(raw_video_slice.shape)    
+            # print("==========raw_video_slice.shape========================")
+            
             # 根据策略截取帧
             if self.max_frames < raw_video_slice.shape[0]:
                 if self.slice_framepos == 0:
@@ -225,8 +236,9 @@ class FineVideo_DataLoader(Dataset):
                 video_slice = raw_video_slice  # 不足则保留全部
 
             # 调整帧顺序（数据增强）
-            video_slice = self.raw_video_extractor.process_frame_order(video_slice, self.frame_order)
+            video_slice = self.rawVideoExtractor.process_frame_order(video_slice, self.frame_order)
             slice_len = video_slice.shape[0]
+            
         else:
             # 视频读取失败
             print(f"警告: 视频{video_id}读取失败，路径: {video_path}")
@@ -235,11 +247,11 @@ class FineVideo_DataLoader(Dataset):
 
         # 构建视频张量和掩码
         video = np.zeros((1, self.max_frames, 1, 3, self.image_resolution, self.image_resolution), dtype=np.float32)
-        video_mask = np.zeros((1, self.max_frames), dtype=np.long)
+        video_mask = np.zeros((1, self.max_frames), dtype=np.int64)
         if slice_len > 0:
             video[0, :slice_len, ...] = video_slice
             video_mask[0, :slice_len] = 1
-
+        
         return video, video_mask
 
     def __getitem__(self, idx):
@@ -250,3 +262,4 @@ class FineVideo_DataLoader(Dataset):
         # 获取视频特征
         video, video_mask = self._get_video(video_id)
         return pairs_text, pairs_mask, pairs_segment, video, video_mask
+
